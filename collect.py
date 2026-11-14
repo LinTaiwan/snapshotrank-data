@@ -356,6 +356,8 @@ def publish(partials: list[dict], out: str, keep_days: int, legacy_days: int = 1
         meta["files"] = legacy_files(ddir)  # 以實際還在的檔案為準（過期的大檔已經刪掉）
         if os.path.isdir(os.path.join(ddir, "apps")):
             meta["shards"] = SHARDS
+        else:
+            meta.pop("shards", None)
         days_meta.append(meta)
     manifest = {"version": MANIFEST_VERSION, "updatedAt": fetched, "days": days_meta}
     with open(mpath, "w") as f:
