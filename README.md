@@ -1,6 +1,6 @@
 # snapshotrank-data
 
-SnapshotRank（快照排名）App 的排名收集器。每 3 小時收集一次 174 國 App Store 排行榜，每天保留最後一次、只留最近 30 天；
+SnapshotRank（快照排名）App 的排名收集器。每 3 小時收集一次 175 國 App Store 排行榜，每天保留最後一次、只留最近 30 天；
 長期歷史存在每個使用者自己的手機上。
 
 ## 收集什麼

@@ -2,7 +2,7 @@
 
 # App Store 國家（ISO 3166-1 alpha-2，小寫）。用 tools/check_countries.py 驗證過 RSS 有資料。
 COUNTRIES = """
-ae ag ai al am ao ar at au az ba bb be bf bg bh bj bm bn bo br bs bt bw by bz
+ae af ag ai al am ao ar at au az ba bb be bf bg bh bj bm bn bo br bs bt bw by bz
 ca cd cg ch ci cl cm cn co cr cv cy cz de dk dm do dz ec ee eg es fi fj fm fr
 ga gb gd ge gh gm gr gt gw gy hk hn hr hu id ie il in iq is it jm jo jp ke kg
 kh kn kr kw ky kz la lb lc lk lr lt lu lv ly ma md me mg mk ml mm mn mo mr ms
