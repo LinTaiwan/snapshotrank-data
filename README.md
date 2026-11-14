@@ -20,7 +20,7 @@ SnapshotRank（快照排名）App 的排名收集器。每 3 小時收集一次 
 manifest.json                         有哪些日子、收集時間、每天有沒有分包（shards）
 days/2026-11-14/apps/00.txt … ff.txt  依 App ID 分包（App 讀這個），留 30 天
 days/2026-11-14/coverage.txt          這次每個榜抓到了哪些國家
-days/2026-11-14/iphone-free.txt       舊格式：每個榜一個大檔，只留 14 天（給舊版 App）
+days/2026-11-14/iphone-free.txt       舊格式：每個榜一個大檔（已停用，見下面）
 days/2026-11-14/6002-mac-free.txt     舊格式：Mac 工具程式（6002）免費榜
 ```
 
@@ -35,7 +35,7 @@ days/2026-11-14/6002-mac-free.txt     舊格式：Mac 工具程式（6002）免�
 分包數 256 寫死在 App 裡，不能改。
 
 **舊格式**：每個 `.txt` 一行一個國家：`國碼 第1名ID 第2名ID …`，名次就是排列順序。
-所有 App 都更新到讀分包的版本後，把 workflow 的 `--legacy-days` 改成 0 就不再產生。
+現在 workflow 用 `--legacy-days 0`，不再發佈舊格式（目前沒有舊版 App 在用）；要恢復就改回 14。
 
 App 從 `https://compoundwater.app/snapshotrank/data/` 讀取（主網站 vercel.json 把這個路徑轉到本 repo 的 data 分支）。
 

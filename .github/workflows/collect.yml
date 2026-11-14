@@ -55,7 +55,7 @@ jobs:
       - uses: actions/setup-python@v5
         with: { python-version: "3.12" }
       - name: Merge and write
-        run: python src/collect.py publish parts/*.json --out site --keep-days 30 --legacy-days 14
+        run: python src/collect.py publish parts/*.json --out site --keep-days 30 --legacy-days 0
       - name: Publish (single commit, force push)
         run: |
           cd site
