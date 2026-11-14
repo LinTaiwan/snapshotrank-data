@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """SnapshotRank 排名收集器。
 
-每天跑一次，把 App Store 各國排行榜存成精簡的文字檔，只保留最近 N 天（預設 14）。
+每 3 小時跑一次，把 App Store 各國排行榜存成精簡的文字檔，只保留最近 N 天（預設 30）。
 長期歷史由手機 App 自己保存，伺服器這邊只當作「最近幾天的緩衝」。
 
 資料來源（都是 Apple 公開的）：
@@ -19,7 +19,9 @@
     days/2026-11-14/6002-iphone-free.txt   分類榜（6002 = 工具程式）
     days/2026-11-14/mac-free.txt           Mac 總榜（官網的 genre 36）
     days/2026-11-14/6002-mac-free.txt
-每個 .txt 一行一個國家：「國碼 第1名ID 第2名ID ...」，名次就是排列順序。
+每個 .txt 一行一個國家：「國碼 第1名ID 第2名ID ...」，名次就是排列順序（舊格式，只留 14 天）。
+    days/2026-11-14/apps/00.txt … ff.txt   依 App ID 分包（App 現在讀這個，見 write_shards）
+    days/2026-11-14/coverage.txt           每個榜抓到了哪些國家
 
 只用標準函式庫，GitHub Actions 不用另外安裝套件。
 """
@@ -45,6 +47,7 @@ from config import COUNTRIES, IPHONE_GENRES, MAC_GENRES  # noqa: E402
 
 UA = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Safari/605.1.15"
 MANIFEST_VERSION = 1
+SHARDS = 256  # 分包數。App 用「App ID % 256」找檔案，改了舊版 App 會找錯檔，不要動
 
 
 class RateGate:
@@ -247,7 +250,49 @@ def collect(countries: list[str], ig: list[str], mg: list[str], rss_workers: int
 
 # ---------- 發佈（合併分片、寫檔、只留最近 N 天） ----------
 
-def publish(partials: list[dict], out: str, keep_days: int) -> int:
+def legacy_files(day_dir: str) -> list[str]:
+    """這天還在的舊格式檔案（每個榜一個 .txt，不含 coverage.txt 和 apps/）"""
+    return sorted(f[:-4] for f in os.listdir(day_dir) if f.endswith(".txt") and f != "coverage.txt")
+
+
+def write_shards(day_dir: str, results: dict[str, dict[str, list[str]]]) -> None:
+    """依 App ID 分包：同一個 App 在所有國家、所有榜的名次寫在同一行，
+    依「App ID 除以 SHARDS 的餘數」分成 SHARDS 個小檔。手機只要下載自己追蹤的 App 所在的那一包。
+
+    apps/3f.txt   一行一個 App：「AppID<TAB>榜=國:名次,國:名次<TAB>榜=…」
+    coverage.txt  這次每個榜抓到了哪些國家：「榜 國 國 …」。App 要靠它分辨
+                  「這個國家這個榜查過、沒上榜」和「這個國家這個榜根本沒抓到」
+    """
+    buckets: list[dict[str, dict[str, list[str]]]] = [dict() for _ in range(SHARDS)]
+    coverage: list[str] = []
+    for key, by_cc in sorted(results.items()):
+        ccs = []
+        for cc, ids in sorted(by_cc.items()):
+            if not ids:
+                continue
+            ccs.append(cc)
+            seen: set[str] = set()
+            for i, app in enumerate(ids):
+                if not app.isdigit() or app in seen:  # 同一份榜裡重複出現：只算最前面那次
+                    continue
+                seen.add(app)
+                buckets[int(app) % SHARDS].setdefault(app, {}).setdefault(key, []).append(f"{cc}:{i + 1}")
+        if ccs:
+            coverage.append(key + " " + " ".join(ccs))
+    apps_dir = os.path.join(day_dir, "apps")
+    os.makedirs(apps_dir)
+    for n, bucket in enumerate(buckets):
+        lines = [
+            app + "\t" + "\t".join(f"{k}={','.join(v)}" for k, v in sorted(keys.items()))
+            for app, keys in sorted(bucket.items(), key=lambda kv: int(kv[0]))
+        ]
+        with open(os.path.join(apps_dir, f"{n:02x}.txt"), "w") as f:
+            f.write("\n".join(lines) + ("\n" if lines else ""))
+    with open(os.path.join(day_dir, "coverage.txt"), "w") as f:
+        f.write("\n".join(coverage) + "\n")
+
+
+def publish(partials: list[dict], out: str, keep_days: int, legacy_days: int = 14) -> int:
     results: dict[str, dict[str, list[str]]] = {}
     stats: dict[str, int] = {}
     fetched = max(p["fetchedAt"] for p in partials)
@@ -276,10 +321,23 @@ def publish(partials: list[dict], out: str, keep_days: int) -> int:
         with open(os.path.join(day_dir, key + ".txt"), "w") as f:
             f.write("\n".join(lines) + "\n")
 
+    write_shards(day_dir, results)
+
     all_days = sorted(d for d in os.listdir(days_root) if re.fullmatch(r"\d{4}-\d{2}-\d{2}", d))
     for old in all_days[:-keep_days]:
         shutil.rmtree(os.path.join(days_root, old))
     kept = all_days[-keep_days:]
+    # 舊格式（每個榜一個大檔）只留最近 legacy_days 天，給還沒更新的 App 用；更舊的日子只留分包
+    legacy_pruned: set[str] = set()
+    for d in (kept[:-legacy_days] if legacy_days > 0 else kept):
+        ddir = os.path.join(days_root, d)
+        if not os.path.isdir(os.path.join(ddir, "apps")):
+            shutil.rmtree(ddir)  # 分包上線前的日子：沒有分包，大檔又過期，整天拿掉
+            continue
+        for f in legacy_files(ddir):
+            os.remove(os.path.join(ddir, f + ".txt"))
+        legacy_pruned.add(d)
+    kept = [d for d in kept if os.path.isdir(os.path.join(days_root, d))]
 
     mpath = os.path.join(out, "manifest.json")
     old_days: dict[str, dict] = {}
@@ -292,11 +350,13 @@ def publish(partials: list[dict], out: str, keep_days: int) -> int:
     old_days[day] = {"date": day, "fetchedAt": fetched, "files": sorted(results.keys()), "stats": stats}
     days_meta = []
     for d in kept:
-        if d in old_days:
-            days_meta.append(old_days[d])
-        else:  # 檔案在但 manifest 沒記到：從資料夾補
-            files = sorted(f[:-4] for f in os.listdir(os.path.join(days_root, d)) if f.endswith(".txt"))
-            days_meta.append({"date": d, "fetchedAt": d + "T00:00:00Z", "files": files, "stats": {}})
+        ddir = os.path.join(days_root, d)
+        # 檔案在但 manifest 沒記到：從資料夾補
+        meta = old_days.get(d) or {"date": d, "fetchedAt": d + "T00:00:00Z", "stats": {}}
+        meta["files"] = legacy_files(ddir)  # 以實際還在的檔案為準（過期的大檔已經刪掉）
+        if os.path.isdir(os.path.join(ddir, "apps")):
+            meta["shards"] = SHARDS
+        days_meta.append(meta)
     manifest = {"version": MANIFEST_VERSION, "updatedAt": fetched, "days": days_meta}
     with open(mpath, "w") as f:
         json.dump(manifest, f, ensure_ascii=False, indent=1)
@@ -321,7 +381,8 @@ def main() -> int:
     p = sub.add_parser("publish", help="合併 partial JSON，寫進資料目錄")
     p.add_argument("partials", nargs="+")
     p.add_argument("--out", required=True)
-    p.add_argument("--keep-days", type=int, default=14)
+    p.add_argument("--keep-days", type=int, default=30)
+    p.add_argument("--legacy-days", type=int, default=14, help="舊格式（每個榜一個大檔）留幾天；0 = 不留")
 
     args = ap.parse_args()
     if args.cmd == "collect":
@@ -334,7 +395,7 @@ def main() -> int:
             json.dump(data, f)
         return 0
     partials = [json.load(open(x)) for x in args.partials]
-    return publish(partials, args.out, args.keep_days)
+    return publish(partials, args.out, args.keep_days, args.legacy_days)
 
 
 if __name__ == "__main__":

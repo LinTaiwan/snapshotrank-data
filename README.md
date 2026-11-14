@@ -1,6 +1,6 @@
 # snapshotrank-data
 
-SnapshotRank（快照排名）App 的排名收集器。每 3 小時收集一次 174 國 App Store 排行榜，每天保留最後一次、只留最近 14 天；
+SnapshotRank（快照排名）App 的排名收集器。每 3 小時收集一次 174 國 App Store 排行榜，每天保留最後一次、只留最近 30 天；
 長期歷史存在每個使用者自己的手機上。
 
 ## 收集什麼
@@ -17,15 +17,26 @@ SnapshotRank（快照排名）App 的排名收集器。每 3 小時收集一次 
 ## 資料格式（`data` 分支）
 
 ```
-manifest.json                         有哪些日子、每天有哪些檔案、收集時間
-days/2026-11-14/iphone-free.txt       iPhone 免費總榜
-days/2026-11-14/iphone-grossing.txt   iPhone 營收總榜
-days/2026-11-14/6002-iphone-free.txt  iPhone 工具程式（6002）免費榜
-days/2026-11-14/mac-paid.txt          Mac 付費總榜
-days/2026-11-14/6002-mac-free.txt     Mac 工具程式免費榜
+manifest.json                         有哪些日子、收集時間、每天有沒有分包（shards）
+days/2026-11-14/apps/00.txt … ff.txt  依 App ID 分包（App 讀這個），留 30 天
+days/2026-11-14/coverage.txt          這次每個榜抓到了哪些國家
+days/2026-11-14/iphone-free.txt       舊格式：每個榜一個大檔，只留 14 天（給舊版 App）
+days/2026-11-14/6002-mac-free.txt     舊格式：Mac 工具程式（6002）免費榜
 ```
 
-每個 `.txt` 一行一個國家：`國碼 第1名ID 第2名ID …`，名次就是排列順序。
+**分包**：`apps/NN.txt` 的 NN 是「App ID 除以 256 的餘數」（兩位十六進位）。一行一個 App：
+
+```
+6830033261<TAB>6002-mac-free=ae:139,tw:37<TAB>mac-free=tw:180
+```
+
+也就是這個 App 在「榜=國:名次,…」的全部名次。手機只下載自己追蹤的 App 所在的那一包（壓縮後約 37 KB），
+不用下載整份榜。`coverage.txt` 一行一個榜：`榜 國 國 …`，App 用它分辨「查過、沒上榜」和「這國這榜沒抓到」。
+分包數 256 寫死在 App 裡，不能改。
+
+**舊格式**：每個 `.txt` 一行一個國家：`國碼 第1名ID 第2名ID …`，名次就是排列順序。
+所有 App 都更新到讀分包的版本後，把 workflow 的 `--legacy-days` 改成 0 就不再產生。
+
 App 從 `https://compoundwater.app/snapshotrank/data/` 讀取（主網站 vercel.json 把這個路徑轉到本 repo 的 data 分支）。
 
 `data` 分支每次都強制覆蓋成只有一個 commit，所以 repo 不會因為每天的資料越長越大。
