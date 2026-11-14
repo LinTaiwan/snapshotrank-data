@@ -26,7 +26,7 @@ days/2026-11-14/6002-mac-free.txt     Mac 工具程式免費榜
 ```
 
 每個 `.txt` 一行一個國家：`國碼 第1名ID 第2名ID …`，名次就是排列順序。
-App 從 `https://raw.githubusercontent.com/<owner>/snapshotrank-data/data/` 讀取。
+App 從 `https://compoundwater.app/snapshotrank/data/` 讀取（主網站 vercel.json 把這個路徑轉到本 repo 的 data 分支）。
 
 `data` 分支每次都強制覆蓋成只有一個 commit，所以 repo 不會因為每天的資料越長越大。
 
