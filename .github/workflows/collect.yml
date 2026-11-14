@@ -1,8 +1,9 @@
 name: collect-rankings
 on:
   schedule:
-    # 每天一次。不設整點：整點是 GitHub 排程最擠、最容易延遲的時候
-    - cron: "17 2 * * *"   # UTC 02:17（台灣 10:17）
+    # 每 3 小時一次（一天 8 次）。同一天的每次收集都覆蓋當天的檔案，所以容量不會變大。
+    # 不設整點：整點是 GitHub 排程最擠、最容易延遲的時候
+    - cron: "17 */3 * * *"
   workflow_dispatch:
 permissions:
   contents: write
