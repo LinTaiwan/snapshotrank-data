@@ -1,0 +1,66 @@
+name: collect-rankings
+on:
+  schedule:
+    # 每天一次。不設整點：整點是 GitHub 排程最擠、最容易延遲的時候
+    - cron: "17 2 * * *"   # UTC 02:17（台灣 10:17）
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: collect
+  cancel-in-progress: false
+
+jobs:
+  # 分成 8 台機器同時抓，每台負責約 22 個國家。
+  # 每台機器的 IP 不同，對 Apple 的請求量分散開，比較不會被限流。
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    strategy:
+      fail-fast: false
+      matrix:
+        shard: [0, 1, 2, 3, 4, 5, 6, 7]
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - name: Collect shard ${{ matrix.shard }}
+        run: python collect.py collect --shard ${{ matrix.shard }} --shards 8 --partial parts/${{ matrix.shard }}.json
+      - uses: actions/upload-artifact@v4
+        with:
+          name: part-${{ matrix.shard }}
+          path: parts/${{ matrix.shard }}.json
+          retention-days: 2
+
+  # 合併 8 份結果，寫進 data 分支。data 分支每次都只留一個 commit，舊資料不會累積在 git 歷史裡
+  publish:
+    needs: collect
+    if: ${{ !cancelled() }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          path: src
+      - uses: actions/download-artifact@v4
+        with:
+          path: parts
+          pattern: part-*
+          merge-multiple: true
+      - name: Checkout data branch
+        run: |
+          git clone --depth 1 --branch data "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}.git" site \
+            || (mkdir site && cd site && git init -q -b data && git remote add origin "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}.git")
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - name: Merge and write
+        run: python src/collect.py publish parts/*.json --out site --keep-days 14
+      - name: Publish (single commit, force push)
+        run: |
+          cd site
+          git config user.name "rank-bot"
+          git config user.email "rank-bot@users.noreply.github.com"
+          git checkout -q --orphan fresh
+          git add -A
+          git commit -q -m "rankings $(date -u '+%F %H:%M') UTC"
+          git push -q -f origin fresh:data
