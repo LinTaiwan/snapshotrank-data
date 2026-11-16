@@ -1,9 +1,12 @@
 name: collect-rankings
 on:
   schedule:
-    # 每 3 小時一次（一天 8 次）。同一天的每次收集都覆蓋當天的檔案，所以容量不會變大。
+    # 每小時排一次。GitHub 的排程常常延遲或整次跳過（實測只跑到約四成），
+    # 排每小時，實際大約每 2～3 小時更新一次。
+    # 同一天的多次收集會合併（這次沒抓到的榜保留前一次的），容量不會變大。
     # 不設整點：整點是 GitHub 排程最擠、最容易延遲的時候
-    - cron: "17 */3 * * *"
+    # 注意：公開倉庫的 main 分支 60 天沒有任何 commit，GitHub 會自動停掉排程
+    - cron: "17 * * * *"
   workflow_dispatch:
 permissions:
   contents: write

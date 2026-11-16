@@ -292,6 +292,40 @@ def write_shards(day_dir: str, results: dict[str, dict[str, list[str]]]) -> None
         f.write("\n".join(coverage) + "\n")
 
 
+def read_day(day_dir: str) -> dict[str, dict[str, list[str]]]:
+    """把已經發布的某一天讀回來（從 apps/ 分包和 coverage.txt 還原成 榜 → 國 → App 名單）。
+    名單裡沒有對應 App 的名次（重複或不是數字的項目）用 "-" 補位，名次才不會跑掉。"""
+    results: dict[str, dict[str, list[str]]] = {}
+    cov_path = os.path.join(day_dir, "coverage.txt")
+    apps_dir = os.path.join(day_dir, "apps")
+    if not os.path.exists(cov_path) or not os.path.isdir(apps_dir):
+        return results
+    covered: dict[str, set[str]] = {}
+    for line in open(cov_path):
+        parts = line.split()
+        if parts:
+            covered[parts[0]] = set(parts[1:])
+    ranks: dict[str, dict[str, dict[int, str]]] = {}
+    for name in os.listdir(apps_dir):
+        for line in open(os.path.join(apps_dir, name)):
+            fields = line.rstrip("\n").split("\t")
+            if len(fields) < 2:
+                continue
+            app = fields[0]
+            for field in fields[1:]:
+                key, _, entries = field.partition("=")
+                for entry in entries.split(","):
+                    cc, _, r = entry.partition(":")
+                    if cc and r.isdigit():
+                        ranks.setdefault(key, {}).setdefault(cc, {})[int(r)] = app
+    for key, ccs in covered.items():
+        for cc in ccs:
+            by_rank = ranks.get(key, {}).get(cc, {})
+            if by_rank:
+                results.setdefault(key, {})[cc] = [by_rank.get(i, "-") for i in range(1, max(by_rank) + 1)]
+    return results
+
+
 def publish(partials: list[dict], out: str, keep_days: int, legacy_days: int = 14) -> int:
     results: dict[str, dict[str, list[str]]] = {}
     stats: dict[str, int] = {}
@@ -314,7 +348,18 @@ def publish(partials: list[dict], out: str, keep_days: int, legacy_days: int = 1
     days_root = os.path.join(out, "days")
     day_dir = os.path.join(days_root, day)
     if os.path.isdir(day_dir):
-        shutil.rmtree(day_dir)  # 同一天重跑：整天覆蓋
+        # 同一天重跑：這次有抓到的榜用新的；這次沒抓到（被 Apple 擋掉）的榜和國家，
+        # 保留當天前一次的結果，不要因為這次失敗就把早上抓到的資料蓋掉
+        kept_from_earlier = 0
+        for key, by_cc in read_day(day_dir).items():
+            for cc, ids in by_cc.items():
+                if cc not in results.get(key, {}):
+                    results.setdefault(key, {})[cc] = ids
+                    kept_from_earlier += 1
+        if kept_from_earlier:
+            stats["kept_from_earlier"] = kept_from_earlier
+            print(f"[{day}] kept {kept_from_earlier} chart(s) from the earlier run today", flush=True)
+        shutil.rmtree(day_dir)
     os.makedirs(day_dir)
     for key, by_cc in sorted(results.items()):
         lines = [f"{cc} " + " ".join(ids) for cc, ids in sorted(by_cc.items())]

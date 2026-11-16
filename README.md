@@ -1,6 +1,6 @@
 # snapshotrank-data
 
-SnapshotRank（快照排名）App 的排名收集器。每 3 小時收集一次 175 國 App Store 排行榜，每天保留最後一次、只留最近 30 天；
+SnapshotRank（快照排名）App 的排名收集器。大約每 2～3 小時收集一次 175 國 App Store 排行榜（排程每小時，GitHub 常跳過），同一天的多次收集合併成一份、只留最近 30 天；
 長期歷史存在每個使用者自己的手機上。
 
 ## 收集什麼
@@ -43,7 +43,10 @@ App 從 `https://compoundwater.app/snapshotrank/data/` 讀取（主網站 vercel
 
 ## 排程
 
-`.github/workflows/collect.yml`：每 3 小時一次（UTC 00:17、03:17 …）。同一天的每次收集都覆蓋當天的檔案，
+`.github/workflows/collect.yml`：每小時排一次（每小時的 17 分）。GitHub 排程常延遲或跳過，實際大約每 2～3 小時一次。
+同一天的每次收集會合併進當天的檔案：這次抓到的榜用新的，這次被 Apple 擋掉、沒抓到的榜保留當天前一次的結果。
+公開倉庫的 main 分支 60 天沒有 commit，GitHub 會自動停掉排程，要手動重新啟用。
+
 `manifest.json` 的 `fetchedAt` 跟著更新；App 看到收集時間變了就再同步一次，所以手機上會有一天內的變化。
 GitHub 排程常延遲，App 以實際收集時間為準。
 
