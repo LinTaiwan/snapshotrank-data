@@ -5,11 +5,12 @@ on:
     # 排每小時，實際大約每 2～3 小時更新一次。
     # 同一天的多次收集會合併（這次沒抓到的榜保留前一次的），容量不會變大。
     # 不設整點：整點是 GitHub 排程最擠、最容易延遲的時候
-    # 注意：公開倉庫的 main 分支 60 天沒有任何 commit，GitHub 會自動停掉排程
+    # 公開倉庫 60 天沒有活動 GitHub 會停掉排程：publish 最後一步會呼叫 API 保持啟用
     - cron: "17 * * * *"
   workflow_dispatch:
 permissions:
   contents: write
+  actions: write   # 給下面「保持排程啟用」用
 concurrency:
   group: collect
   cancel-in-progress: false
@@ -68,3 +69,10 @@ jobs:
           git add -A
           git commit -q -m "rankings $(date -u '+%F %H:%M') UTC"
           git push -q -f origin fresh:data
+      # 公開倉庫 60 天沒有活動，GitHub 會自動停掉排程。資料是推到 data 分支，main 平常不會有 commit，
+      # 所以每次跑完呼叫「啟用這個 workflow」的 API，重設 60 天的計時（不用產生多餘的 commit）
+      - name: Keep schedule enabled
+        if: ${{ always() }}
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh api -X PUT "repos/${{ github.repository }}/actions/workflows/collect.yml/enable" || echo "keepalive failed (non-fatal)"
