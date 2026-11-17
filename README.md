@@ -3,6 +3,20 @@
 SnapshotRank（快照排名）App 的排名收集器。大約每 2～3 小時收集一次 175 國 App Store 排行榜（排程每小時，GitHub 常跳過），同一天的多次收集合併成一份、只留最近 30 天；
 長期歷史存在每個使用者自己的手機上。
 
+## 使用說明
+
+- 本專案跟 Apple 沒有任何關係。資料來自公開的 App Store 排行榜，App Store 是 Apple Inc. 的商標。
+- 這裡的資料只供 SnapshotRank App 使用。不保證正確或完整，格式隨時可能改變，也可能隨時停止提供。
+- 程式碼保留所有權利（沒有開源授權）。想使用程式碼或資料，請先開 Issue 聯絡。
+- 請不要大量或自動抓取 `compoundwater.app/snapshotrank/data/`，也請勿把這些資料用於 AI 模型訓練。
+
+### Notice
+
+- Not affiliated with Apple. The data comes from the public App Store charts; App Store is a trademark of Apple Inc.
+- The data is provided only for the SnapshotRank app, as is, with no guarantee of accuracy or completeness. The format may change and the data may stop being published at any time.
+- The code is all rights reserved (no open-source license). To use the code or the data, please open an issue first.
+- Please don't scrape `compoundwater.app/snapshotrank/data/` in bulk, and don't use this data to train AI models.
+
 ## 收集什麼
 
 | 榜單 | 來源 | 深度 |
