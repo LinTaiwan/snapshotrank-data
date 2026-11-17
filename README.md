@@ -8,14 +8,14 @@ SnapshotRank（快照排名）App 的排名收集器。大約每 2～3 小時收
 - 本專案跟 Apple 沒有任何關係。資料來自公開的 App Store 排行榜，App Store 是 Apple Inc. 的商標。
 - 這裡的資料只供 SnapshotRank App 使用。不保證正確或完整，格式隨時可能改變，也可能隨時停止提供。
 - 程式碼保留所有權利（沒有開源授權）。想使用程式碼或資料，請先開 Issue 聯絡。
-- 請不要大量或自動抓取 `compoundwater.app/snapshotrank/data/`，也請勿把這些資料用於 AI 模型訓練。
+- 請不要大量或自動抓取這些資料，也請勿把這些資料用於 AI 模型訓練。
 
 ### Notice
 
 - Not affiliated with Apple. The data comes from the public App Store charts; App Store is a trademark of Apple Inc.
 - The data is provided only for the SnapshotRank app, as is, with no guarantee of accuracy or completeness. The format may change and the data may stop being published at any time.
 - The code is all rights reserved (no open-source license). To use the code or the data, please open an issue first.
-- Please don't scrape `compoundwater.app/snapshotrank/data/` in bulk, and don't use this data to train AI models.
+- Please don't scrape this data in bulk, and don't use it to train AI models.
 
 ## 收集什麼
 
@@ -51,7 +51,7 @@ days/2026-11-14/6002-mac-free.txt     舊格式：Mac 工具程式（6002）免�
 **舊格式**：每個 `.txt` 一行一個國家：`國碼 第1名ID 第2名ID …`，名次就是排列順序。
 現在 workflow 用 `--legacy-days 0`，不再發佈舊格式（目前沒有舊版 App 在用）；要恢復就改回 14。
 
-App 從 `https://compoundwater.app/snapshotrank/data/` 讀取（主網站 vercel.json 把這個路徑轉到本 repo 的 data 分支）。
+App 透過主網站讀取（主網站的 vercel.json 把資料路徑轉到本 repo 的 data 分支，網址寫在 App 的 `RankServer.swift`）。
 
 `data` 分支每次都強制覆蓋成只有一個 commit，所以 repo 不會因為每天的資料越長越大。
 
