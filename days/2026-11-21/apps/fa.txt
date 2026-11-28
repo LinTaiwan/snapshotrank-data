@@ -1,0 +1,987 @@
+297625850	6000-iphone-free=af:166,at:81,bj:137,de:37,na:65,tn:128
+298474490	6012-iphone-free=ml:172,sn:156
+298840058	6011-iphone-paid=ba:137,gd:70,gy:109,hn:133,id:119,kr:30,lu:187,lv:200,sk:196,ve:148
+301294330	6013-mac-free=sg:10
+325540858	6017-iphone-paid=nz:62
+327630330	6007-iphone-free=ae:76,ag:24,al:54,am:127,ao:160,ar:49,at:35,au:25,az:145,ba:23,bb:21,be:35,bf:134,bg:57,bh:51,bm:133,bn:17,bo:69,br:50,bs:43,bt:88,bw:75,by:141,bz:33,ca:30,cg:187,ch:33,ci:110,cl:70,co:70,cr:57,cv:41,cy:60,cz:47,de:36,dk:30,dm:71,do:72,dz:191,ec:70,ee:30,eg:109,es:50,fi:30,fj:38,fm:34,fr:47,gb:30,gd:167,ge:87,gh:94,gm:122,gr:42,gt:35,gw:141,gy:34,hk:74,hn:64,hr:37,hu:43,id:91,ie:30,il:56,in:110,iq:141,is:29,it:36,jm:53,jo:85,jp:32,ke:50,kg:150,kh:129,kn:42,kr:63,kw:37,ky:58,kz:125,la:188,lb:53,lc:30,lk:79,lr:90,lt:27,lu:32,lv:62,ma:52,md:71,me:19,mg:76,mk:68,ml:79,mm:194,mn:79,mo:50,ms:37,mt:137,mu:88,mv:44,mw:30,mx:49,my:78,mz:101,na:40,ng:80,ni:134,nl:40,no:20,np:88,nr:165,nz:22,om:43,pa:66,pe:75,pg:89,ph:62,pk:97,pl:44,pt:60,pw:58,py:52,qa:77,ro:59,rs:40,ru:101,rw:63,sa:88,sb:149,se:36,sg:50,si:32,sk:44,sn:109,st:80,sv:80,sz:11,tc:145,td:95,th:38,tj:136,tn:117,to:117,tr:133,tt:43,tw:50,tz:124,ua:83,ug:129,us:28,uy:54,vc:54,ve:70,vg:152,vn:106,vu:88,xk:105,za:47,zm:81,zw:39	iphone-free=bb:181,bn:175,me:191,mw:197,sz:93	iphone-grossing=ae:95,ag:63,ai:16,ar:41,at:52,au:32,bb:29,be:58,bh:83,bm:33,bn:59,bo:34,br:57,bs:42,bz:48,ca:46,ch:31,cl:55,co:73,cr:53,cy:55,de:61,dk:26,do:48,ec:80,ee:38,es:52,fi:47,gb:49,gd:74,gh:77,gr:77,gt:60,hn:83,hr:80,ie:44,il:77,is:10,it:75,jm:59,ke:67,kn:64,kw:48,ky:62,lc:31,lu:34,ms:8,mt:20,mv:54,mx:61,mz:95,na:36,ne:44,nl:48,no:20,nz:35,pa:60,pe:88,pt:74,py:45,rs:88,ru:80,rw:82,se:25,sg:82,si:86,st:17,sv:64,tc:47,tj:99,tt:37,us:36,uy:38,vc:84,ve:100,vg:53,za:28,zw:72
+327708154	6014-iphone-paid=ch:127,ro:92
+330035194	6008-iphone-free=au:44,gb:61,ie:49,nz:15,us:161
+346591226	6017-iphone-paid=ae:197,bm:139,bn:52,hk:159,ie:131,in:131,jm:63,kw:157,lk:128,mo:154,mt:74,my:97,nz:194,ph:131,pk:104,sg:48,tt:183,vg:93
+377453562	6004-iphone-paid=ae:47,ar:200,at:32,au:42,be:36,bg:189,bh:38,bm:16,bn:3,bw:18,ca:72,ch:51,cl:189,cn:125,cr:140,cy:45,cz:35,de:72,dk:52,ee:40,eg:104,es:112,fi:53,fj:20,gb:5,gr:109,hk:57,hr:73,hu:13,ie:5,is:10,it:115,jm:57,jp:69,ke:53,kr:107,kw:144,ky:31,lu:15,lv:77,md:83,mn:50,mt:17,my:48,nl:28,no:92,nz:16,pg:2,ph:28,pl:118,rs:107,ru:149,sa:69,se:107,sg:134,si:91,sk:20,tc:11,th:83,tr:110,tt:6,tw:67,ua:130,za:46	6004-mac-paid=at:38,au:112,de:62,fi:39,gb:28,hu:32,nl:68
+379357690	6002-iphone-paid=bz:150
+386326778	6015-mac-free=ca:186
+390696186	6002-iphone-free=ky:150
+400201466	6014-iphone-free=pt:128,tc:167	6014-mac-free=ar:29,ie:85,pt:134	iphone-grossing=nl:100,pt:80,tr:78,xk:89
+403246330	6017-iphone-free=cg:166,mz:113
+404302586	6011-mac-paid=ae:117,ar:62,at:46,au:79,be:61,bg:53,bo:99,br:89,ca:70,ch:71,cl:136,cn:149,co:59,cr:145,cz:107,de:99,dk:24,do:47,ec:49,ee:47,es:80,fi:39,fr:76,gb:90,gr:45,hk:75,hn:41,hr:142,hu:58,id:88,ie:43,il:71,in:121,is:108,it:83,jp:51,kr:127,lb:73,lt:55,lu:62,lv:57,mk:54,mt:65,mx:53,my:58,ni:25,nl:87,no:30,nz:29,ph:51,pl:74,pt:68,ro:77,ru:89,se:34,sg:28,si:65,sk:98,th:108,tr:63,tw:57,ua:190,uy:94,ve:12,za:109	mac-paid=ve:145
+405995002	6017-iphone-paid=bs:158,bw:136,bz:153,fj:28,gh:76,hn:140,in:170,mu:188,ng:110,sc:54,sv:173,tt:122,us:135
+406961914	6015-iphone-free=se:177
+409998074	6018-iphone-paid=be:156,br:122,bs:39,ch:132,de:188,dk:182,fr:61,gb:200,hu:111,il:3,lu:122,mx:75,pa:31,ru:131,se:195,ua:113,za:184
+412946682	6002-mac-free=sz:160
+415445242	6006-iphone-free=tr:182
+417571834	6008-iphone-free=ae:186,af:27,al:169,ao:108,bf:75,bh:139,bj:190,bm:147,cd:175,ci:121,cm:108,cv:51,cy:180,dm:155,do:184,eg:195,fm:14,gd:168,gh:139,gw:131,gy:115,in:178,iq:50,jm:152,ke:139,kn:127,kw:134,ky:156,lb:200,lk:122,ly:177,mg:175,mk:135,ml:59,mm:190,mr:47,ms:91,na:134,ne:177,np:196,nr:69,om:170,pg:42,pk:90,qa:187,sb:196,sc:35,sn:102,st:93,tc:152,td:75,tj:126,tm:47,to:170,tz:120,us:199,vc:145,vg:79,vu:152,xk:137	6008-mac-free=af:131,bz:115,iq:157,ly:167,mr:137,tj:188,xk:135	iphone-free=af:123,fm:78	iphone-grossing=bf:85,mv:85,pk:87,ye:78
+420484346	6003-mac-free=au:34,cz:103,de:58,ga:46,gt:24,kw:66,mo:76,my:3,nl:179,sn:92,uz:158
+421791482	6013-iphone-paid=ae:129,gb:97,in:193,jm:173,ke:146,kw:96,lb:151,lv:185,mu:192,om:85,pe:172,pk:173,qa:192,sa:92,tz:140,ug:103,us:147,ve:58,ye:30	6013-mac-paid=de:179
+421805050	6000-iphone-free=id:81
+425128442	6013-iphone-paid=jp:81
+425345530	6010-iphone-paid=ae:108,al:95,ao:37,ar:156,az:153,br:164,cl:200,cv:5,do:158,ec:102,eg:153,id:51,in:177,is:73,jo:140,jp:188,kr:153,kw:46,ky:14,lb:174,lk:42,ma:27,md:101,mu:36,my:113,ng:52,no:54,om:93,pa:200,ph:190,pk:188,py:52,qa:42,ru:169,sa:112,sc:10,sg:84,th:114,tr:92,tw:164,tz:55,uy:71,vg:24,vn:128,za:197	iphone-paid=cv:195
+426172922	6015-iphone-free=qa:7,tr:129	iphone-free=qa:159
+427516922	6020-iphone-paid=ae:124,bo:148,ca:149,gh:131,ie:73,is:177,jo:120,kn:25,kw:183,ky:58,lb:167,mz:76,nz:195,ph:174,tt:15,us:129	6020-mac-paid=us:137
+446289146	6004-iphone-free=pg:122
+452312826	6004-iphone-free=de:76,lu:58
+453714938	6017-mac-free=lc:65,ug:132
+454347770	6017-mac-paid=ae:4,am:12,ao:3,ar:3,at:11,au:10,az:12,bb:17,be:5,bg:3,bh:4,bn:3,bo:3,br:8,bs:4,bw:24,by:7,ca:13,ch:17,cl:5,cn:43,co:3,cr:3,cy:7,cz:5,de:41,dk:5,do:6,dz:17,ec:3,ee:3,eg:5,es:7,fi:5,fj:10,fr:12,gb:17,ge:12,gh:19,gr:3,gt:1,gy:1,hk:3,hn:3,hr:3,hu:2,id:9,ie:4,il:3,in:6,is:1,it:4,jm:2,jo:5,jp:15,ke:9,kh:61,kr:6,kw:3,ky:18,kz:9,la:12,lb:2,lk:4,lt:2,lu:3,lv:4,ma:28,md:36,mk:2,mm:13,mn:15,mo:8,mt:2,mu:4,mv:15,mx:15,my:5,mz:1,na:3,ne:7,ng:5,ni:2,nl:4,no:5,nz:8,om:2,pa:1,pe:4,pg:25,ph:6,pk:5,pl:5,pt:4,py:2,qa:4,ro:3,rs:6,ru:7,sa:5,sc:15,se:4,sg:5,si:2,sk:4,sn:7,sv:2,th:9,tr:7,tt:2,tw:4,tz:3,ua:7,ug:1,us:78,uy:2,ve:2,vn:22,ye:7,za:4,zw:24	mac-paid=ao:119,ar:152,bh:139,bn:76,bo:42,bs:176,by:176,cl:112,co:82,cr:66,dk:164,ec:91,ee:146,fi:132,gr:152,gt:56,gy:30,hn:51,hu:180,ie:152,il:155,is:54,jm:42,jo:163,kw:144,lb:120,lk:154,lt:98,lu:109,mk:174,mt:105,mx:135,mz:85,na:181,ne:147,ng:123,ni:112,no:183,om:93,pa:93,pk:169,pt:144,py:188,sa:127,se:172,si:156,sv:60,tt:96,tz:114,ug:86,uy:132,ve:63,za:155
+460065530	6000-iphone-free=gb:70
+460815354	6027-mac-free=ai:123,al:148,bh:199,es:137,hr:191,kw:200,lt:199,mv:172,mx:103,qa:186
+464270330	6010-iphone-free=ag:164,bb:61,bm:110,bn:138,bs:115,bz:81,dm:58,is:174,kn:29,lc:60,lr:168,na:114,sr:120,tt:86,vc:39,vg:135,zw:184
+477070330	6000-iphone-free=ag:39,au:16,bb:115,bm:38,bn:41,bs:111,bt:175,cy:196,fj:137,gb:126,ie:84,ke:197,mt:35,nz:25,pg:71,to:170,vu:30	6000-mac-free=au:79,bs:179,bt:192,gb:131,nz:187,sg:122
+490035194	6013-iphone-paid=ae:180,ao:90,ar:167,au:188,bn:144,co:182,cr:120,ec:51,is:105,ke:142,kw:151,md:106,na:178,nz:193,pa:50,pg:43,zw:28	6013-mac-paid=au:162
+491796218	6004-iphone-free=bb:124,bm:7,bn:88,bs:141,do:97,ky:28,mu:26,tc:188,us:158	6004-mac-free=jm:93,ky:51,sv:162
+491854842	6006-mac-free=ae:63,af:18,ag:4,ai:3,al:12,am:9,ao:35,ar:55,at:34,au:3,az:34,ba:24,bb:42,be:50,bf:47,bg:77,bh:34,bj:60,bm:59,bn:20,bo:61,br:95,bs:15,bt:111,bw:18,by:22,bz:16,ca:6,cd:28,cg:46,ch:40,ci:93,cl:51,cm:63,cn:1,co:90,cr:37,cy:19,cz:43,de:107,dk:28,dm:43,do:200,dz:61,ec:50,ee:22,eg:83,es:65,fi:11,fj:6,fr:117,ga:46,gb:3,gd:14,ge:32,gh:50,gr:31,gt:137,gy:22,hk:2,hr:41,hu:8,id:57,ie:10,il:51,in:127,iq:55,is:19,it:30,jm:23,jo:36,jp:6,ke:33,kg:38,kh:1,kn:49,kr:57,kw:65,ky:28,kz:36,la:3,lb:89,lk:25,lr:39,lt:36,lu:16,lv:33,ly:51,ma:81,md:83,me:35,mg:40,mk:52,ml:47,mm:7,mn:6,mo:1,mr:55,ms:7,mt:10,mu:22,mv:23,mw:60,mx:104,my:2,mz:25,na:18,ne:108,ng:16,nl:48,no:40,np:22,nr:6,nz:8,om:38,pa:28,pe:37,pg:13,ph:48,pk:34,pl:52,pt:49,pw:11,py:46,qa:14,ro:40,rs:16,ru:60,rw:48,sa:78,sb:8,se:40,sg:1,si:32,sk:47,sl:45,sn:67,sr:9,sv:64,sz:4,tc:12,td:45,th:2,tj:63,tm:32,tn:69,to:31,tr:110,tt:78,tw:5,tz:26,ua:93,ug:31,us:4,uz:84,vc:51,ve:67,vg:3,vn:27,vu:2,xk:88,ye:23,za:55,zm:26,zw:40	mac-free=cn:47,hk:62,kh:132,mo:47,my:109,sg:79,vg:121,vu:82
+492150266	6017-iphone-paid=ba:154,fr:76
+492728058	6003-iphone-free=at:185
+500544250	6005-iphone-paid=ae:29,ai:4,am:28,ao:6,ar:8,at:7,au:34,az:25,ba:13,be:13,bf:5,bg:37,bh:55,bn:10,bo:5,br:16,bs:19,bw:8,by:31,ca:32,cd:9,cg:5,ch:12,ci:17,cl:5,cn:36,co:6,cr:7,cy:26,cz:36,de:12,dk:42,dm:8,do:8,dz:7,ec:4,ee:36,eg:25,es:11,fi:28,fr:15,gb:42,gh:21,gr:40,gt:8,gy:17,hk:16,hn:11,hu:79,id:25,ie:36,il:53,in:24,is:33,it:13,jo:31,jp:24,ke:13,kg:32,kh:16,kr:11,kw:40,kz:56,lb:29,lk:11,lt:38,lu:7,lv:37,ma:8,mg:7,ml:6,mn:32,mo:13,mr:4,mt:23,mu:22,mv:21,mx:9,my:26,mz:12,na:21,ne:5,ng:12,ni:6,nl:30,no:57,nz:37,om:21,pa:4,pe:6,ph:38,pk:20,pl:60,pt:6,py:4,qa:38,ro:47,rs:33,ru:20,sa:34,sc:15,se:33,sg:34,si:54,sk:55,sn:4,sv:14,td:2,th:40,tr:45,tw:6,tz:8,ua:46,ug:12,us:70,uy:5,uz:35,ve:6,vn:37,za:23	6005-mac-paid=cl:52,de:77,pe:32,za:53	iphone-paid=ai:84,bf:120,bo:161,cg:121,ec:159,ne:69,pa:176,pe:166,py:168,sn:158,td:12,uy:199
+504189946	6006-iphone-free=gw:104,mr:115,ms:19,mw:136,sb:159,sz:168
+505991418	6020-iphone-free=fm:194
+507895802	6014-mac-paid=al:52,ao:15,at:141,au:161,be:83,bm:141,bn:163,br:56,bs:49,ca:156,ch:149,de:94,ec:182,eg:102,fi:185,fr:167,ie:162,il:193,in:144,it:161,jp:185,lb:103,lc:39,lu:4,lv:154,nl:127,no:147,nz:94,pe:182,pt:153,tt:109,ve:114,za:183
+508764666	6014-mac-paid=ae:141,az:177,bg:184,bn:76,dk:149,ec:132,ee:196,id:95,in:190,ke:154,kh:138,kw:74,la:63,lt:186,ma:156,mk:67,mn:181,mu:50,my:92,na:182,ng:140,ph:125,qa:79,ro:198,ru:146,sa:86,sl:16,th:83,uy:198
+512651258	6017-mac-free=us:200
+519376634	6003-iphone-free=ci:200,jo:138,kw:20,lk:198	6003-mac-free=bh:36,cd:137,eg:117,ge:162,kg:77,kw:8,lk:132,om:83,sa:135,tj:128
+525319418	6002-mac-paid=bn:154
+525719546	6020-iphone-paid=ae:136,bw:85,eg:92,hk:109,hn:145,kh:175,ng:107,ph:130,pk:145,qa:183,sa:97,sg:38,th:128,tz:82,uy:178	6020-mac-paid=ae:50
+526080250	6017-iphone-paid=am:170,bb:177,be:108,bg:103,bj:67,br:38,by:97,cg:83,ch:30,ci:133,cr:165,do:145,dz:15,ee:172,es:146,fr:70,ge:56,gr:14,hr:186,hu:162,it:165,jo:147,lb:81,lt:135,lu:70,lv:166,ma:9,me:37,ml:129,mr:76,mu:49,ni:119,pa:158,pt:176,py:95,rs:68,si:66,sn:16,sv:134,ua:191	iphone-paid=ch:163,dz:192,gr:101,ma:141
+526597114	6017-iphone-paid=tw:59
+530593018	6002-iphone-paid=bz:142,gd:100,sl:29,sn:177,vc:96,ve:99
+532839674	6011-mac-paid=ae:147,ao:62,be:110,by:159,ch:145,cn:76,cy:124,dk:193,es:118,fr:44,gt:95,hu:158,in:189,it:198,jp:36,kh:78,kw:165,kz:120,lc:24,lu:90,mu:22,mx:129,pa:175,sa:148,sg:183,ua:122,vn:192	mac-paid=lc:190
+539888378	6017-iphone-paid=gd:20
+545140730	6020-iphone-paid=ag:14,ar:49,az:131,bo:15,cl:53,co:11,cr:34,do:44,ec:36,eg:167,es:62,fi:171,gh:121,gt:99,hn:34,hu:174,id:119,il:141,it:174,kh:35,kr:192,lv:94,mt:71,mx:37,ni:10,np:28,pa:60,pe:48,pt:187,py:53,ro:171,ru:104,se:182,si:137,sk:157,sv:30,tr:175,ua:76,uy:94,ve:64,vn:154,xk:39,zw:64	6020-mac-paid=ec:37,mx:88	iphone-paid=co:127
+547107322	6017-iphone-free=af:121,bs:131,fm:71,mm:133,vu:41	6017-mac-free=sr:179
+549884154	6016-iphone-paid=mv:36,rs:186
+552250874	6010-iphone-free=hk:63,jp:71,kh:172,kr:148,la:89,mo:169,sg:135,th:57,tw:62
+552794874	6010-iphone-free=bt:164,cr:109,ni:196,pg:173
+552805626	6020-iphone-paid=ch:72,fr:183	6020-mac-paid=ch:78
+553209594	6002-iphone-free=cy:28,gr:16	iphone-free=gr:171
+553792506	6011-mac-paid=ae:73,ar:184,at:103,au:91,be:198,bn:37,br:98,ca:103,ch:134,cl:108,co:94,cy:123,cz:165,de:186,dk:68,do:150,ee:88,fi:82,fr:135,gb:154,gr:84,gt:93,hk:162,hr:136,id:85,ie:116,il:162,in:179,is:97,it:102,kh:11,la:19,lb:197,mu:21,mx:128,my:70,nl:128,no:72,nz:56,pa:44,pe:69,ph:74,pk:75,pl:176,pt:117,py:50,qa:139,ro:141,ru:160,sa:146,se:83,sg:70,si:88,sk:61,tr:173,tw:179,uy:86,vn:190,za:59
+557572346	6004-iphone-free=us:153
+558178298	6011-iphone-free=cn:166,mn:106	6011-mac-free=mn:153
+564806906	6000-iphone-free=bt:195
+588013562	6015-iphone-free=lb:74	6015-mac-free=lb:110
+588126714	6015-iphone-paid=jp:70	6015-mac-paid=jp:151
+589656058	6013-iphone-free=se:2	6013-mac-free=se:69	iphone-free=se:116
+590452986	6002-mac-paid=hn:182,id:188,kh:157,lt:189,mn:162,mt:140,sn:103,tm:48,zw:109	mac-paid=tm:132
+599979002	6024-iphone-free=pl:112
+612918266	6009-iphone-free=ar:140,bo:178,cm:194,cr:139,ec:165,gt:104,hn:146,it:186,mt:157,ni:103,pa:171,pe:48,ph:166,py:122,sv:102,tt:195,uy:191,ve:158	6009-mac-free=ar:172,ci:91,cl:132,cm:60,co:143,cr:75,ec:151,gt:93,it:153,ke:32,mx:150,ph:66,pt:191,si:139
+613564666	6006-iphone-free=ag:149,bb:156,bm:161,bo:200,bs:177,bz:99,gd:140,gy:145,kn:91,ky:119,lc:139,ms:192,ni:191,sr:155,tc:97,vc:157,ve:170,vg:136	6006-mac-free=ec:101,gt:70,ni:174,pe:163
+624963066	6015-iphone-free=ec:3	6015-mac-free=ec:13	iphone-free=ec:44
+645944826	6009-iphone-free=it:63	6009-mac-free=it:158
+647989498	6017-iphone-free=jp:185
+652822266	6018-iphone-free=la:42
+665033466	6007-iphone-free=al:87,am:149,bg:177,ge:140,gr:200,hr:138,hu:71,lt:190,md:186,me:157,mg:146,mk:42,no:64,rs:134,xk:74,zw:180
+665859578	6000-iphone-free=ag:48,bb:61,bm:175,bn:78,bs:13,bz:195,cl:108,co:197,cr:89,cy:62,dm:178,do:152,ec:95,ga:37,gd:115,gr:98,gt:116,gy:112,jm:58,kn:82,lc:138,lt:116,lu:126,lv:48,mg:155,mt:70,mx:175,pa:80,pt:120,py:74,rs:148,sr:22,sv:72,tn:197,tt:12,uy:108,vc:123,ve:146,zw:147	iphone-grossing=vc:44
+666200570	6000-iphone-free=tm:134	6000-mac-free=tm:131
+672984826	6013-iphone-free=cn:10,hk:64,mm:59,mo:175,ms:194	6013-mac-free=cn:18,fj:76,hk:101,sg:166,us:182
+683859706	6009-iphone-paid=ae:53,am:12,ar:23,at:14,au:46,be:20,bg:31,br:42,by:7,ca:49,ch:31,cz:20,de:15,dk:38,ee:12,es:29,fi:21,fr:17,gb:47,hu:14,ie:29,in:28,is:11,it:43,jp:29,kr:25,kz:26,lu:14,mx:61,nl:20,no:29,nz:42,pl:15,pt:24,ro:17,rs:17,sa:46,se:27,sg:41,si:22,sk:18,th:33,tw:28,ua:22,us:47,za:29	6009-mac-paid=at:19,au:40,be:22,ca:28,ch:26,de:23,es:23,fi:26,fr:27,is:15,jp:29,nl:26,no:21,pl:20,sa:20,se:27,us:34
+686500602	6014-iphone-paid=rw:127
+694599930	6011-iphone-paid=tt:151	6011-mac-paid=ar:7,bm:27,do:83,ee:63,es:190,fr:171,gb:51,ie:173,is:186,kz:115,pl:197,rs:158,ua:180,us:35	mac-paid=ar:28
+698168058	6015-mac-free=ar:195,co:56,es:87,mx:33,pe:17
+703201018	6000-iphone-paid=ae:183,ag:27,au:152,bh:131,bn:72,by:103,ca:15,cl:179,do:44,eg:165,gb:5,gh:116,gr:170,id:200,ie:108,in:125,jo:144,kw:186,kz:177,lb:199,lk:136,lt:155,lv:157,mt:64,mx:192,ng:139,no:192,pa:115,pe:122,ph:139,pk:101,pt:145,ru:181,sa:4,se:183,sg:152,sk:180,tr:182,tt:57,ua:181,us:41,vn:130,za:172	6000-mac-paid=mv:15	iphone-paid=sa:100
+721697018	6005-iphone-free=bj:191
+726216954	6014-iphone-paid=es:130
+737721082	6020-iphone-free=cl:44	6020-mac-free=ve:178
+744923898	6012-iphone-free=af:38,ai:14,am:148,bw:179,cm:153,cv:162,fm:191,ge:119,gw:131,lu:167,ly:134,md:61,ml:179,mr:162,ms:99,mw:198,mz:155,nr:108,pg:165,pw:78,rs:134,rw:82,sb:82,sc:193,sl:54,st:80,tc:47,vc:19,vg:91,vu:185,zm:146,zw:175	6012-mac-free=ae:127,af:32,ai:53,al:49,am:97,ao:46,ar:192,az:67,bf:15,bh:93,bj:91,bo:164,bw:99,by:118,bz:115,cd:63,ch:197,ci:68,cl:96,cn:110,co:124,cv:39,cy:156,do:94,dz:63,ec:175,ee:132,eg:176,fi:200,fj:111,ge:96,gh:83,gm:102,gr:160,gt:54,gy:61,hk:152,hn:153,hr:200,ie:184,il:64,iq:54,jo:132,jp:56,ke:110,kg:191,kh:86,kw:41,kz:160,la:93,lb:99,lk:53,lt:189,ly:138,ma:90,md:63,ml:58,mm:140,mr:106,mu:132,mv:42,mz:47,na:87,ne:25,ng:10,ni:124,np:175,om:60,pe:111,pg:88,pk:105,pl:191,qa:87,ro:149,rw:189,sa:15,sc:36,sg:30,sk:135,sl:147,sn:82,sr:73,td:115,tj:55,tm:55,tz:71,ua:123,ug:128,uz:89,vc:28,ve:183,ye:60,za:174,zw:88
+747836922	6011-iphone-paid=bn:145,bs:14,eg:169,iq:85,np:44,tr:84,ug:129	iphone-paid=bs:182
+756979450	6026-iphone-free=ae:194,af:173,al:119,ao:114,ar:176,az:176,bf:129,bg:148,bh:132,bm:116,bn:121,bo:145,br:156,bt:114,by:66,bz:127,cg:144,cl:68,cr:139,cv:67,cz:120,do:185,dz:175,ec:132,ee:167,es:91,fj:50,gm:119,gr:196,gt:99,gw:47,hk:133,hn:79,hr:82,hu:119,ie:188,il:92,jm:49,ke:178,kh:175,kz:196,la:88,lb:147,lk:149,lr:185,lt:166,lu:136,lv:129,md:143,mg:134,mk:89,ml:165,mn:119,mo:164,mr:189,mt:189,mu:114,mv:172,mw:162,mz:165,na:177,ne:29,ni:110,np:174,pa:106,pe:158,py:105,rs:64,si:132,sk:163,sl:170,sn:155,sr:81,sv:102,tj:194,tn:162,tt:90,tw:154,tz:157,uy:132,ve:140,ye:161,zw:161
+769936122	6006-mac-free=ae:148,al:86,am:176,ao:54,ar:146,at:32,az:81,bf:192,bg:148,bj:68,bo:58,br:140,bw:62,by:104,cd:191,cg:59,ch:41,ci:131,cl:146,cm:58,co:171,cv:58,cz:186,de:142,dk:162,do:145,dz:47,ee:119,eg:109,es:192,fi:131,gd:24,gh:57,gm:50,gr:111,hk:142,hr:47,hu:97,id:126,it:161,jm:92,jo:104,jp:180,ke:84,kg:114,kh:119,kr:90,kw:181,lb:86,lc:63,lk:120,lr:34,lu:83,lv:173,ma:53,md:105,mg:29,ml:199,mm:200,mn:103,mw:140,mx:147,mz:83,na:197,ng:57,ni:169,nl:163,no:155,om:102,pa:76,pe:127,ph:137,pk:93,pl:156,py:55,qa:98,ro:73,ru:50,rw:74,sa:123,sc:28,se:127,sg:120,sk:75,sl:180,sn:88,sv:80,td:148,th:175,tn:62,tt:36,tw:134,tz:80,ua:114,ug:77,vn:153,za:111,zw:51
+776833018	6010-iphone-free=bt:132,sr:188,ye:180
+777111034	6017-iphone-free=cg:160,la:56,ml:76,tj:132,tt:88,vn:141
+777803770	6008-iphone-paid=ug:195
+789715706	6006-iphone-free=bo:194,cr:112,do:71,hn:46,ni:92,sv:75,ve:156
+791083514	6000-iphone-free=ke:61,ne:137
+800013306	6007-iphone-paid=ag:61,am:58,az:64,bb:122,bg:105,bo:155,by:89,cg:73,cy:149,cz:81,ee:50,eg:78,gh:99,gr:180,hr:79,hu:111,il:165,in:115,jm:93,jo:150,ke:53,kg:94,kr:59,kz:118,lb:152,lk:80,lr:12,lt:83,lv:108,mg:88,mk:114,ml:94,mn:151,mt:190,mz:131,ng:106,pk:27,pl:102,ro:122,ru:108,sa:192,si:81,sk:55,tj:27,tr:137,ua:83,uz:64,vc:12,vn:96	iphone-paid=lr:186,vc:173
+805451002	6007-mac-free=ai:62,mo:198
+807341818	6004-iphone-free=jp:38,sg:188
+816263930	6015-mac-paid=ae:77,al:12,ar:37,au:169,br:133,ca:72,dk:102,ec:47,es:85,fr:131,gb:121,hk:58,in:84,jp:149,mx:90,my:101,ph:22,th:117,us:8,uy:27
+820674810	6001-iphone-free=bs:76,us:127
+858974970	6016-mac-free=af:32,ag:166,ai:131,ao:107,bj:101,bo:190,bt:75,bw:130,cd:123,cg:85,cm:68,dz:133,gh:195,ie:21,iq:140,is:192,ke:174,lr:83,ly:141,ma:156,mg:137,ml:168,mm:178,mn:178,mo:192,na:77,ne:192,nl:69,pg:163,py:163,rw:72,sb:30,si:107,sk:183,sl:67,sn:175,td:103,tm:114,tn:194,tt:170,tz:128,ug:94,vc:120,vu:51,zm:197,zw:183
+860548602	6014-mac-free=gd:166,gm:117,mm:56,tc:90
+861249786	6004-iphone-paid=bn:51,br:176,bz:10,cl:125,cn:58,co:163,do:81,ec:199,eg:170,fr:148,gt:167,hk:36,id:59,il:90,jp:73,kr:50,lb:127,mo:22,mx:150,ni:39,ph:115,ru:147,sv:71,tr:89,tw:29,us:82,uy:169
+867458554	6017-iphone-paid=am:154,bo:173,bs:123,cd:116,ec:54,na:139,pe:84,pg:118,ye:88	6017-mac-paid=ar:104,cl:191,cr:75,ec:22,nz:196,pe:52
+869324026	6003-iphone-free=mg:199
+872834042	6018-iphone-free=mo:35
+875760378	6015-iphone-free=bj:128,ne:65,sn:136,ug:67	6015-mac-free=bf:56,bj:54,ci:86,ga:117,mg:35,ml:84,ne:47,sn:45,ug:152
+876317178	6007-mac-paid=bo:178,cl:153,it:10,ky:61,kz:200,lk:134,qa:192,sn:144,tz:159	mac-paid=it:50
+881447162	6017-mac-paid=ae:53,ar:74,au:53,az:15,be:72,bn:20,bo:40,br:62,by:20,ca:81,ch:94,cl:123,co:74,cr:21,cy:61,cz:105,de:174,dk:55,ec:115,eg:96,es:89,fi:58,fr:90,gb:62,gr:104,gt:19,hk:101,hr:111,hu:79,id:51,ie:69,il:60,in:46,it:77,jo:31,jp:186,kh:51,kw:120,lb:65,lt:98,lv:37,mo:39,mt:26,mu:34,mx:60,my:99,ng:40,ni:4,nl:48,no:38,np:7,nz:36,om:13,pe:51,ph:117,pk:74,pl:84,pt:132,ro:42,ru:60,sa:79,se:40,sg:51,sk:43,sv:42,th:59,tr:37,tw:166,ua:71,us:122,vn:112,za:47	mac-paid=ni:147,np:180
+883504378	6004-iphone-free=ca:78
+884742394	6004-iphone-free=es:34
+885021946	6008-iphone-free=gy:143
+885099002	6014-iphone-paid=za:134
+896256506	6006-iphone-free=bh:58,kw:14,lb:51	6006-mac-free=kw:39
+897521658	6001-iphone-free=pw:74	6001-mac-free=us:61
+898287610	6003-iphone-free=af:77,at:192,au:114,bn:84,ee:167,gr:151,id:69,jp:180,la:162,my:65,nz:180,pg:197,ph:70,sg:20,sk:93,th:189,tw:84	6003-mac-free=au:145,cn:115,id:77,jp:167,la:80,mo:66,my:43,nl:58,ph:46,sg:39,th:138,tw:96,vn:175	iphone-free=sg:157
+899894778	6002-iphone-paid=ae:125,af:25,bh:195,bn:66,gb:142,jm:55,kh:15,la:6,lk:156,mm:114,mo:165,my:189,pg:134,sg:35,th:130	iphone-paid=af:122,kh:48,la:39
+908982778	6000-iphone-free=es:83
+909275386	6013-iphone-free=nl:170
+913729274	6011-iphone-free=at:121
+915945466	6001-iphone-free=ai:167,bh:189,fm:134,jo:44,kw:164,lb:185,mr:131,uz:70,vg:93,ye:82
+916731898	6014-mac-free=af:66,al:103,ao:125,bj:193,bw:161,bz:133,cd:37,cg:111,ci:36,fj:76,gm:70,ke:157,lc:99,mg:185,mw:16,mz:180,na:141,ng:100,rw:151,sl:88,sz:183,tm:111,tz:143,ug:154,vc:136,ye:192,zw:91
+919887610	6017-iphone-paid=nl:179
+920383226	6017-iphone-free=bz:94,py:117	6017-mac-free=ae:84,al:81,at:195,au:176,bg:129,bh:147,bo:149,br:190,bs:129,ca:14,ch:72,cl:36,co:172,do:80,ec:116,ee:98,fr:151,ge:55,gm:118,hn:2,is:118,it:91,lu:197,ma:166,mr:169,mx:13,ni:121,no:43,pa:110,pe:28,pt:78,py:175,th:131,uy:193,vc:171,zm:178	mac-free=hn:41,mx:196
+931349242	6018-iphone-free=kr:101
+934771962	6024-iphone-free=gt:153,jp:97
+940386298	6008-iphone-free=bb:114
+942076666	6018-iphone-free=bf:29,bj:138,cd:105,cg:133,cm:79,ga:24,mg:154,mu:31,sn:176,tc:175,to:128
+943521786	6017-iphone-paid=dk:192
+944996090	6023-iphone-free=es:194
+947235578	6018-iphone-free=bt:103,bz:146,ch:192,dz:200,es:196,fr:188,ga:190,gt:172,kn:181,kr:131,la:187,ly:181,mg:58,pg:131,sc:151,to:175,tz:118
+949245178	6017-iphone-paid=tz:111
+951018490	6018-iphone-free=md:88
+951619066	6017-mac-free=dk:164,fi:109,no:122,se:69
+957586938	6013-mac-free=ly:79,sk:200
+962314746	6010-iphone-free=sl:142
+966811386	6003-mac-free=ge:56
+973096186	6002-iphone-free=nl:125
+974955770	6010-iphone-free=ky:72,si:104
+976988666	6017-iphone-paid=tw:197
+982443770	6004-iphone-paid=ba:36,be:186,bj:5,cm:9,ec:99,fr:59,lu:135,lv:131,ml:13,om:100,pa:140	iphone-paid=bj:144
+983085050	6002-mac-free=al:137,ao:139,bf:150,bj:182,bn:179,bo:152,bs:186,bt:134,bz:140,cg:93,cv:181,dm:158,fj:164,gm:150,jm:163,kn:133,kw:199,lb:155,lr:118,mg:185,ml:135,mr:121,mu:196,mw:121,pg:100,sl:43,sr:158,sv:195,tt:144,tz:194,ug:185,ve:165,vg:93,ye:153,zw:141
+985996026	6003-iphone-free=mt:200,xk:137	6003-mac-free=ar:144,ba:92,bg:82,cd:123,co:165,cr:93,do:116,ee:163,eg:104,gr:120,gt:59,hn:147,hr:103,il:101,kw:115,lv:99,mo:158,mx:147,pa:184,pe:154,pt:164,py:85,ro:85,sg:147,tt:104,xk:67,za:193
+986082042	6002-iphone-paid=bo:190,tj:193,tt:182
+988554746	6002-mac-paid=na:197,om:124,sn:180
+991617530	6004-iphone-free=jp:104	6004-mac-free=bz:28,jp:90
+994252026	6008-mac-paid=bh:167,cz:182,hk:170,sk:125
+995793146	6004-iphone-paid=cm:8,ng:55
+999538938	6002-iphone-paid=bh:86,bn:187,cl:167,gb:197,id:140,me:136,mu:154,na:120,qa:190,za:125
+1001044474	6016-mac-free=th:135
+1002355194	6024-iphone-free=ao:47,bf:163,bj:54,cd:46,cg:44,ci:64,cn:8,fj:177,ga:194,gh:154,gw:196,hk:40,ke:127,kg:137,kh:100,la:31,lk:122,lr:123,mg:176,mm:52,mn:128,mo:12,ms:109,mt:189,mw:147,my:134,mz:29,ne:34,ng:108,nr:71,nz:157,pg:115,pk:126,pw:31,rw:41,sb:66,sg:142,td:71,th:179,tj:67,tm:43,to:85,tz:158,ug:32,vn:184,vu:78,zm:55,zw:140	iphone-free=cn:36,mo:170
+1003219962	6010-iphone-paid=jp:9
+1004233466	6008-mac-free=hu:49
+1011349498	6016-iphone-paid=mr:8	iphone-paid=mr:115
+1014406138	6010-iphone-free=cn:93
+1015430906	6004-iphone-free=pt:14
+1020691962	6007-mac-free=sg:129,sk:72
+1021171706	6005-iphone-free=ai:187,cm:102,jp:130,ng:101,rs:112,sz:71,xk:120	6005-mac-free=jp:162,la:95,ng:166
+1025313530	6013-iphone-free=cn:32,hk:159
+1034957818	6013-mac-free=kr:69
+1038950650	6013-iphone-paid=do:140,hn:184,tt:102
+1040455418	6020-mac-free=bh:193
+1041969146	6009-iphone-free=se:151	6009-mac-free=se:155
+1042610682	6003-iphone-free=me:143
+1042701562	6005-mac-free=ae:157,am:181,ao:44,ar:143,at:164,au:152,az:144,bf:82,bg:129,br:178,bw:41,cd:68,cg:81,ci:45,cl:100,cm:37,co:143,cr:86,cy:182,cz:117,dk:131,do:61,dz:58,ec:80,eg:116,es:160,fi:142,ga:30,gh:51,gr:79,hn:61,hr:178,hu:138,id:147,il:54,iq:135,it:185,ke:52,kw:150,lb:65,lt:177,lu:166,lv:58,mg:67,mt:110,mu:101,mx:136,my:142,ne:67,ng:77,nl:200,no:108,pa:95,pe:151,ph:127,pk:72,pl:129,pt:119,ro:73,rs:164,rw:135,sa:153,se:129,sg:83,si:45,sk:116,sl:45,sn:74,th:150,tn:57,tt:47,ug:38,ve:64,za:75,zm:23
+1048245754	6003-iphone-free=ar:13,bo:105,cl:20,co:38,ec:194,gt:118,hn:63,pa:77,pe:90,sv:147,uy:148,ve:113	6003-mac-free=ar:6,bo:107,cl:44,co:56,ec:61,hn:142,mx:188,pa:179,pe:78,py:81,ve:85
+1053796346	6002-mac-paid=ao:54,gy:35,ke:195,mz:30,na:191,qa:200	mac-paid=ao:185,gy:113,mz:95
+1054842874	6026-mac-paid=at:54,au:127,be:33,bg:64,br:120,ca:103,ch:82,cl:159,cn:150,co:38,cz:73,de:88,dk:32,do:76,ee:133,eg:18,es:39,fi:46,fr:72,gb:95,gr:77,hk:57,hr:146,hu:92,id:118,ie:48,il:52,is:71,it:87,jo:16,jp:82,ke:39,kr:135,kz:53,lk:10,lt:138,lu:21,lv:125,mx:189,my:200,nl:49,no:21,pl:162,pt:98,qa:74,ro:86,ru:93,sa:109,se:44,sg:77,si:13,sk:44,th:81,tr:102,tw:70,ua:106,us:172
+1056093690	6015-iphone-free=in:160
+1060016122	6008-iphone-free=kr:43	6008-mac-free=kr:31
+1063869946	6012-iphone-free=sz:87
+1064893690	6011-mac-free=gb:200,is:110
+1070036730	6009-iphone-free=fj:181,td:168
+1071171834	6024-iphone-free=mm:90
+1071800058	6007-mac-paid=bf:70,lk:123,ng:156
+1072854522	6003-mac-free=ly:41
+1073891066	6016-iphone-free=af:80,bf:10,bj:19,bw:113,cd:25,cg:25,ci:46,cm:28,ga:38,gw:116,ly:174,mg:45,ml:22,mn:6,ms:84,ne:11,sc:131,sn:70,td:61	6016-mac-free=ai:124,bf:154,bj:138,cd:157,ly:136,mn:1,se:64	iphone-free=bf:141,bj:193,mn:49,ne:137	mac-free=mn:22
+1077729530	6001-iphone-free=ag:101,ai:71,bh:124,dz:147,fm:163,gw:150,jo:90,kw:132,lb:168,lr:181,ly:105,mr:54,ms:95,ne:133,nr:62,om:156,qa:160,st:54,td:74,tn:164,ye:61
+1078573818	6014-iphone-free=th:84
+1080562426	6018-iphone-paid=ae:68,am:21,ar:175,at:97,au:118,be:169,bg:69,bh:23,bm:1,br:170,ca:168,ch:81,cl:146,cz:94,de:79,dk:93,ec:105,es:118,fi:71,fj:7,fr:185,gb:103,ge:43,gh:15,gr:153,gt:83,gy:13,hk:174,hr:79,hu:26,id:121,ie:156,il:143,in:5,is:31,it:4,ke:2,kw:73,kz:36,lt:81,lu:162,md:45,mt:71,mu:43,my:58,nl:61,no:187,nz:85,om:37,pe:128,ph:172,pl:161,pt:133,qa:42,ro:126,ru:33,se:99,sg:4,si:30,sn:34,th:168,tt:48,tw:174,ua:29,us:56,za:44	iphone-paid=bm:137,in:88,sg:144
+1080590586	6017-iphone-paid=bh:139,kw:166
+1083436794	6017-mac-paid=at:168,au:190,be:187,cr:148,dk:160,hk:166,kh:12,kr:108,lu:80,no:147,th:49
+1083676922	6016-iphone-free=ba:120,hu:165,kn:190,ms:185,mu:127,na:132,tc:135,vc:146	6016-mac-free=ag:158,ar:24,bz:76,dk:77,id:187,ie:47,is:148
+1084196602	6002-iphone-free=dz:82,eg:164,iq:107,jo:100,lb:128,ly:141,ma:89,mr:86,om:184,sa:112,tn:135,ye:87	6002-mac-free=sa:49	mac-free=sa:186
+1092044282	6002-iphone-paid=al:160
+1099081722	6009-iphone-free=uy:174
+1099564538	6018-iphone-free=bt:52,fj:176,gy:22,mu:178,nz:192,sr:140
+1101964282	6013-iphone-free=mu:157
+1102242042	6008-mac-paid=al:65,cn:38,hk:105,is:153,kh:142,kr:183,kz:177,lk:166,mo:71,my:158,ni:92,tt:136,tw:2,ve:42,vn:196	mac-paid=tw:18
+1102750714	6014-iphone-paid=by:157,cn:91,cz:94,sk:39,th:104,tw:185	6014-mac-paid=cn:6
+1108323834	6024-iphone-free=mo:137,tw:36
+1111113210	6023-iphone-free=cm:128,lr:52,sl:125
+1114163450	6006-iphone-paid=dk:29,no:17
+1114955258	6018-iphone-free=be:42
+1119345146	6026-mac-free=al:166,ao:108,ar:175,at:199,az:177,ba:195,be:146,bf:98,bg:171,bh:131,bj:130,bo:114,bt:186,by:155,cd:84,cg:136,ci:100,cl:182,cm:125,cr:162,cz:200,de:93,dk:150,do:109,dz:86,ee:120,fi:160,ga:55,gh:96,gm:47,gr:132,hr:150,hu:161,ie:118,il:184,iq:171,jm:85,jo:174,jp:145,ke:101,kh:81,kn:35,kw:183,lb:94,lk:184,lr:152,mg:100,ml:110,mm:152,mr:170,mu:107,mv:194,mw:59,my:177,na:155,ne:20,ng:116,ni:181,no:120,nz:189,pe:189,pg:157,ph:195,py:149,qa:172,ro:167,sa:170,se:15,sg:196,si:138,sk:150,sl:71,sn:139,td:47,th:198,tm:155,tn:91,tz:81,ug:119,uy:174,ye:63,za:123,zm:153,zw:54
+1119545082	6008-mac-free=it:107,py:137,vg:199
+1121209338	6004-mac-free=ee:15,lv:82
+1121484538	6014-iphone-paid=ag:19,mo:106	6014-mac-paid=tw:14
+1124566778	6023-iphone-free=ag:156,fm:101,nr:123
+1125807610	6001-mac-free=uy:70
+1126888186	6003-iphone-paid=am:47,bg:151,by:33,cy:61,cz:151,ee:114,ge:80,il:89,is:137,kz:54,lv:87,md:62,om:109,ru:51,ua:37,uz:26	6003-mac-paid=de:88
+1128872186	6000-iphone-free=td:181
+1131296762	6014-iphone-free=es:165
+1132744186	6003-iphone-paid=at:176,be:131,br:144,cl:125,cn:104,cr:142,cy:146,cz:58,ec:77,fr:191,gr:116,hk:102,ke:79,lu:131,mo:40,my:189,ni:41,nl:83,no:181,om:108,pe:149,pt:115,ru:147,sk:87,tr:115,tw:127,tz:39	6003-mac-paid=at:22,be:25,bo:3,ca:42,ch:25,cn:42,cz:21,de:34,dk:28,ec:8,es:30,fr:30,gr:23,in:22,it:21,jp:24,kw:11,no:26,pt:24,sa:11,se:21,sg:22,us:66
+1133050362	6000-iphone-free=td:73
+1134998522	6013-iphone-free=ag:73,au:117,bs:115,ca:105,ch:142,gb:76,ie:41,nz:56	6013-mac-free=ae:176,be:153,bg:127,bs:97,ch:177,gh:154,ie:146,kh:161,kw:56,nl:161,no:165,np:175,nz:101,pa:107,tz:83,uz:79
+1139303674	6016-mac-free=ai:120,ao:170,bm:170,fj:97,ky:60,lc:155,md:177,ne:183,ug:184,vc:109,vg:131
+1141835258	6011-iphone-free=ag:149,ar:186,bb:152,bm:82,bs:101,bz:179,cl:97,cr:155,cv:137,dm:134,ec:185,ee:109,fm:73,gd:109,gt:132,gw:142,gy:121,hn:54,il:132,iq:188,kn:77,ky:54,lc:145,lk:68,mk:146,ms:59,mv:93,my:57,na:159,ni:51,pa:190,pg:164,pw:130,py:71,sb:192,sc:33,st:61,sv:51,sz:153,tc:138,to:137,tw:70,uy:137,vc:118,vg:90,vu:168
+1148380410	6008-mac-free=ag:124,bb:164,bs:152,bz:121,fm:141,gd:164,jm:159,kn:134,mn:158,mw:185,na:200,rw:149,sb:72,sc:168,sl:165,sr:155,tt:185,zm:192,zw:162
+1157448186	6014-mac-free=bo:180,ma:81,td:166
+1158702330	6008-mac-paid=cy:135,lk:94
+1158898682	6023-iphone-free=ag:154,ai:39,am:56,ao:128,az:94,bw:105,by:100,bz:106,dm:102,gd:194,ge:80,gy:52,kn:127,kz:113,lc:87,mv:61,ne:156,nr:49,ru:47,rw:140,sb:75,sc:150,st:151,td:197,vc:180,vg:111,vu:135
+1160716282	6015-iphone-free=ma:96	6015-mac-free=ma:58
+1172570106	6000-iphone-free=sv:167
+1177367290	6006-iphone-free=eg:169	6006-mac-free=eg:148
+1178373626	6009-iphone-free=uy:93
+1179234554	6026-mac-free=ae:167,af:159,al:163,am:161,ao:137,ar:170,az:161,bb:119,be:194,bf:95,bg:181,bh:182,bj:105,bn:131,bo:113,bt:184,by:137,ca:40,cd:116,cg:80,ci:115,cl:189,cm:100,co:194,cr:176,cv:134,cz:196,dk:181,do:120,dz:129,ec:156,ee:156,eg:129,fi:164,ge:178,gh:135,gm:143,gr:158,gt:149,hk:183,hr:132,hu:151,id:180,ie:145,il:177,iq:118,jo:128,ke:77,kg:199,kh:148,kr:197,kw:129,lb:116,lk:150,lr:149,lt:129,lu:111,lv:189,ma:123,me:131,mg:118,mk:138,ml:141,mm:149,mo:178,mv:6,my:169,ne:83,ng:131,ni:178,no:169,np:122,nz:157,om:174,pa:161,pe:148,ph:168,pk:151,pt:170,py:111,qa:171,ro:165,rw:154,sa:143,se:146,sg:185,si:166,sl:125,sn:103,sv:155,sz:123,td:176,tj:160,tm:81,tn:86,tr:197,tw:190,tz:112,ug:93,uy:164,ve:149,vg:55,vn:22,ye:41,za:167,zw:104	mac-free=mv:109
+1181034234	6016-iphone-free=vn:64	6016-mac-free=hk:148,ng:44,vn:166
+1190438906	6013-iphone-free=kr:89	6013-mac-free=kr:146
+1191465978	6006-iphone-free=vg:17
+1191488506	6004-iphone-free=bh:147,cv:57,cy:132,ee:120,es:41,it:147,pa:199,pt:35,st:137,uy:126	6004-mac-free=do:107,es:30,fr:146
+1200459770	6009-iphone-free=it:176
+1200715770	6018-iphone-free=sn:170,td:125
+1209102842	6020-iphone-free=us:199
+1209469178	6000-iphone-free=pt:169
+1215380730	6009-iphone-free=ec:103,id:187,sb:173,vu:136	6009-mac-free=at:199
+1219643642	6002-iphone-paid=al:157,bf:124,bw:116,cd:144,cg:109,cm:29,dz:167,fj:95,gh:178,gm:48,jm:176,lr:15,mg:122,ml:47,mm:30,mw:85,mz:99,na:169,ye:154,zm:128,zw:23	iphone-paid=cm:144,lr:71,mm:164,zw:139
+1224121850	iphone-grossing=st:75
+1227792122	6012-mac-free=il:177
+1228167930	6007-iphone-paid=at:193,ch:15
+1229966330	6015-iphone-free=my:139,sg:61
+1232475386	6002-mac-free=af:141,ag:179,bf:175,bj:157,cd:193,cg:99,cm:163,ga:159,gd:166,gw:41,la:145,lr:57,ml:112,sc:137,sl:115,sr:132,sz:151,td:105,tm:86,ug:136,ye:181,zw:143	mac-free=gw:191
+1232543738	6016-mac-free=dk:188
+1234019322	6012-iphone-paid=bs:50,mt:185,mw:16
+1238214138	6024-iphone-free=mr:194,ne:167,tn:13
+1239397626	6009-iphone-free=ae:9,af:56,ag:57,ai:85,al:151,am:33,ao:113,ar:36,at:44,au:22,az:22,ba:94,bb:51,be:21,bf:80,bg:14,bh:15,bj:97,bm:30,bn:68,bo:40,br:31,bs:23,bt:30,bw:50,by:123,bz:47,ca:26,cd:94,cg:84,ch:23,ci:123,cl:13,cm:86,co:21,cr:20,cv:63,cy:8,cz:43,de:37,dk:39,dm:79,do:73,ec:18,ee:19,eg:38,es:31,fi:20,fj:49,fr:53,ga:31,gb:12,gd:42,ge:77,gh:101,gm:53,gr:14,gt:53,gw:35,gy:52,hk:10,hn:21,hr:11,hu:48,id:35,ie:10,il:29,in:32,iq:43,is:9,it:35,jm:71,jo:23,jp:53,ke:28,kg:57,kh:38,kn:54,kr:19,kw:38,ky:38,kz:16,la:68,lb:31,lc:39,lk:40,lr:40,lt:28,lu:11,lv:11,ly:14,ma:19,md:39,me:14,mg:53,mk:39,ml:88,mm:62,mn:20,mo:62,mr:67,ms:134,mt:15,mu:29,mv:23,mw:37,mx:18,my:13,mz:10,na:54,ne:40,ng:30,ni:42,nl:32,no:45,np:17,nr:23,nz:38,om:137,pa:23,pe:18,pg:35,ph:33,pk:17,pl:20,pt:17,pw:41,py:40,qa:17,ro:13,rs:38,ru:47,rw:41,sa:51,sb:36,sc:37,se:32,sg:11,si:86,sk:28,sl:53,sn:141,sr:71,st:105,sv:47,sz:55,tc:88,td:48,th:58,tj:62,tm:96,tn:19,to:28,tr:53,tt:56,tw:47,tz:31,ua:33,ug:64,us:45,uy:72,uz:13,vc:75,ve:65,vg:36,vn:30,vu:22,xk:6,ye:136,za:8,zm:28,zw:16	iphone-grossing=bh:90,bm:95,bw:75,ge:44,gw:98,lu:89,lv:59,me:11,mt:25,mz:58,ug:75,za:74
+1239750650	6012-iphone-free=tw:139
+1241307386	6020-iphone-free=gw:93,mz:152,ni:110	6020-mac-free=bo:187,cl:11
+1242508538	6013-iphone-free=lr:136,ne:167
+1244670970	6011-iphone-free=ro:133	6011-mac-free=ro:21
+1246087930	6000-iphone-free=my:39
+1246703610	6007-iphone-free=ai:118,ar:147,au:91,ba:114,bj:150,bm:115,bn:47,ci:195,dm:164,ee:68,eg:163,es:153,fm:38,gb:107,gd:148,gy:43,hn:135,kw:200,lc:130,lv:169,ma:196,me:67,mk:156,mo:129,ni:114,nr:180,om:124,pg:22,py:156,qa:121,rw:108,sa:194,sc:116,sk:169,sz:42,tc:43,to:175,tr:107,tt:116	iphone-free=pg:161	iphone-grossing=rw:11,td:99
+1254346490	6012-iphone-free=ag:165,ai:18,al:12,am:35,ao:157,ar:33,at:98,az:136,ba:23,bb:36,bg:77,bh:57,br:18,by:64,ca:54,ch:142,ci:123,cl:18,co:61,cr:168,cy:24,cz:153,de:99,dk:133,do:33,dz:124,ec:36,ee:29,eg:132,es:116,fi:98,fr:147,ga:165,ge:25,gr:35,gy:144,hr:64,hu:26,il:90,iq:135,it:42,kg:40,kh:89,kn:83,kz:99,la:91,lb:132,lk:100,lt:34,lu:134,lv:31,md:58,me:64,mk:16,mt:47,mu:105,mv:159,mx:107,my:59,ni:139,np:133,nr:193,nz:78,om:157,pe:75,ph:37,pk:105,pl:144,pt:68,py:29,ro:125,rs:30,ru:66,sa:107,sc:19,se:181,sg:87,si:172,sk:44,sl:87,sn:147,sr:174,sv:156,th:111,tj:118,to:39,tt:109,tz:124,ua:130,uy:52,uz:86,vg:187,vn:76,xk:9,ye:81,za:93	iphone-free=xk:135
+1260461818	6017-mac-paid=ar:93,bg:95,br:174,cn:195,co:82,dk:132,do:58,ee:88,es:147,gr:140,gt:68,id:140,ie:121,in:147,ke:45,kr:46,lv:35,mn:22,nz:160,pe:59,ph:154,pk:52
+1263552250	6000-iphone-free=gy:165,vc:193
+1265704186	6004-mac-free=is:59,jp:149,ke:198,kr:61,tw:172,zm:93
+1266282746	6020-iphone-free=ie:2,sc:94	6020-mac-free=ie:25
+1277179898	6009-iphone-free=us:166
+1279263738	6014-mac-free=no:76
+1296315130	6020-iphone-free=cy:90
+1299040762	6005-iphone-free=bm:40,ky:142,ph:45
+1299653882	6007-iphone-free=ml:111
+1299683066	6018-iphone-free=lb:113,td:23
+1300452602	6015-iphone-free=id:129,ph:176
+1302507514	6014-mac-free=nl:105,pg:171
+1303314426	6003-iphone-free=jp:6	6003-mac-free=jp:70,tw:145	iphone-free=jp:107
+1306611194	6016-mac-free=ag:145,al:57,am:7,ao:100,ar:127,at:175,az:35,ba:53,be:193,bf:59,bg:69,bh:104,bj:65,bn:93,bo:62,by:46,bz:58,ca:61,cd:141,cg:63,ci:72,cl:121,cm:97,co:154,cr:81,cv:81,cy:40,cz:49,de:52,dk:158,do:108,dz:83,ec:73,ee:23,eg:150,es:73,fi:106,fm:23,ga:35,ge:5,gh:170,gm:71,gr:106,gt:71,gy:87,hn:89,hr:76,hu:152,ie:117,il:84,iq:33,is:86,jo:158,ke:119,kg:57,kh:184,kw:101,ky:59,kz:115,la:173,lb:77,lc:146,lk:154,lt:42,lu:77,lv:26,ma:79,md:26,me:22,mg:66,mk:43,ml:67,mn:150,mo:168,mr:51,mt:68,mu:60,mv:43,my:180,mz:100,na:115,ne:71,ng:190,ni:61,no:140,om:85,pa:60,pe:126,pg:68,ph:61,pk:175,pt:159,py:50,qa:109,ro:133,rs:54,ru:69,rw:144,sc:75,se:182,si:89,sk:108,sn:80,sr:136,sv:57,sz:96,tc:120,tj:59,tm:37,tn:50,to:45,tr:38,tt:128,tz:159,ua:76,ug:144,uy:41,uz:36,ve:134,vn:127,xk:52,ye:88,zm:189,zw:156	mac-free=am:189,ge:188
+1313773050	6027-mac-paid=ae:43,al:28,am:17,ar:28,at:68,au:8,az:43,be:51,bg:43,bh:59,bm:22,bo:40,br:49,bw:28,by:76,ca:9,ch:58,cl:48,cn:3,co:36,cr:28,cy:23,cz:44,de:63,dk:49,do:26,ec:47,ee:36,eg:38,es:34,fi:48,fj:16,fr:3,gb:8,ge:3,gr:38,gt:31,hk:39,hn:62,hr:22,hu:34,id:53,ie:44,il:23,in:34,is:44,it:5,jm:38,jo:50,jp:31,ke:41,kr:19,kw:34,kz:36,lb:27,lc:9,lk:58,lt:7,lu:84,lv:42,md:41,mo:46,mt:47,mv:8,mx:33,my:47,ng:37,nl:60,no:45,nz:28,pa:53,pe:32,pg:9,ph:21,pk:81,pl:3,pt:49,py:21,qa:28,ro:50,rs:5,ru:34,sa:30,se:39,sg:58,si:49,sk:33,sv:75,th:36,tr:68,tw:34,ua:33,us:24,uz:26,vg:5,vn:22,za:79	mac-paid=cn:89,fj:150,fr:147,ge:72,it:144,lc:98,lt:160,mv:166,pg:106,pl:110,rs:188,vg:62
+1321051898	6016-iphone-paid=md:173,rs:152
+1322011386	6008-mac-free=af:7,ba:144,bs:11,ca:42,ch:135,dk:69,eg:116,fi:75,gd:117,gw:180,is:27,kz:52,me:107,mg:4,mt:199,my:106,ph:179,pw:200,qa:44,rw:161,sb:197,sg:147,si:46,sz:146	mac-free=af:51,bs:62,is:198,mg:53
+1323938554	6013-iphone-free=in:66,td:58	6013-mac-free=cd:144
+1325453818	6017-mac-free=al:140
+1332816634	6005-iphone-free=ar:37,cl:194,py:53
+1333125114	6004-iphone-free=at:105
+1338777850	6013-iphone-free=se:151
+1340650234	6016-iphone-free=ar:2,at:27,au:8,bo:13,br:38,ca:31,ch:21,cl:9,co:20,cr:18,de:17,do:46,ec:16,fr:12,gb:8,gt:20,hn:26,ie:9,it:28,mx:15,ni:19,pa:18,pe:17,py:18,sv:19,uy:11,ve:37	iphone-free=ar:15,au:53,bo:113,ch:163,cl:80,co:136,cr:116,de:193,ec:102,fr:109,gb:72,gt:160,hn:165,ie:89,mx:88,ni:106,pa:96,pe:125,py:170,sv:152,uy:80	iphone-grossing=ar:17,at:62,au:13,bo:26,br:30,ca:24,ch:48,cl:20,co:33,cr:22,de:56,do:45,ec:20,fr:57,gb:25,gt:23,hn:23,ie:15,it:59,mx:25,ni:29,pa:26,pe:23,py:27,sv:22,uy:13,ve:49
+1340850682	6005-iphone-free=hk:118,mm:128	6005-mac-free=fm:26,hk:92,id:48,kh:78,la:185,mm:63,my:116,ph:140,sg:189
+1352865274	6015-mac-free=id:137
+1362760954	6018-iphone-free=tn:197,zm:76
+1364202746	6015-iphone-free=py:35
+1365145082	6006-mac-free=cg:190
+1365614842	6011-mac-free=gb:195
+1367113978	6003-iphone-free=jp:154
+1377191418	6012-iphone-free=no:200
+1381206010	6008-iphone-free=bm:142,dm:176,fm:80,gd:156,kn:120,ky:159,lc:189,ly:188,ms:103,mt:173,st:101,tc:161,to:143,vc:147,vg:148,vu:149
+1389804026	6002-iphone-free=vu:69
+1390471418	6000-iphone-free=tw:63
+1394510586	6006-mac-free=cg:189
+1396528634	6006-iphone-paid=kg:81,mn:76	6006-mac-paid=in:113
+1400136442	6014-mac-paid=ae:100,ao:49,az:143,bb:21,bh:47,bs:74,bw:77,cm:25,dk:182,do:157,ec:197,eg:143,ge:142,gh:10,hn:189,id:98,ie:192,in:46,jm:65,jo:55,ke:41,kh:51,kw:186,lt:94,ma:106,mg:38,mm:6,mn:29,mt:146,mu:85,my:97,mz:77,na:124,ng:9,no:148,pa:190,ph:107,pk:67,qa:131,ro:150,sa:103,sg:176,sk:181,tc:18,tt:159,tz:27,ua:146,ug:56,vn:82,za:180,zm:39,zw:28
+1402691066	6000-iphone-free=it:174
+1407085562	6013-mac-free=au:119
+1412607994	6005-iphone-free=gm:98,sl:184
+1418532602	6020-mac-free=bh:148
+1424036346	6013-iphone-paid=jp:45	6013-mac-paid=au:143,jp:37
+1437808634	6020-mac-paid=cn:114
+1438190842	6017-mac-free=ai:131
+1440135674	6020-iphone-free=lv:176
+1440949754	6000-iphone-free=at:199,cz:190,sk:184
+1441121786	6023-iphone-free=al:197,am:195,bt:194,by:134,fj:33,jm:74,lv:149,mn:128,sb:178,vg:55
+1441267962	6006-iphone-free=np:46,qa:171	6006-mac-free=np:124
+1441382394	6014-iphone-paid=nz:25
+1442664698	6001-iphone-free=mo:140	6001-mac-free=jp:150
+1444054522	6009-iphone-free=cd:34
+1444816378	6007-mac-free=ms:69
+1444860666	6010-iphone-free=ae:5,af:6,ag:51,ai:34,al:38,ao:144,at:41,au:81,az:12,ba:4,bb:109,be:63,bf:84,bh:3,bj:38,bm:167,bn:3,bs:182,bt:200,bw:146,bz:191,ca:82,cd:78,cg:49,ch:63,ci:49,cm:15,co:116,cv:82,cy:53,de:52,dk:82,dm:127,dz:6,eg:4,es:173,fi:73,fj:50,fm:64,fr:63,ga:36,gb:58,gd:116,ge:108,gh:31,gm:32,gw:31,gy:126,hk:190,hr:76,id:7,ie:65,il:32,in:59,iq:5,is:133,it:140,jo:4,ke:10,kg:35,kn:131,kw:4,ky:170,kz:78,lb:3,lc:183,lk:40,lr:58,ly:5,ma:3,me:20,mg:125,mk:10,ml:11,mm:110,mr:5,ms:42,mt:42,mu:14,mv:7,mw:56,my:6,mz:13,na:148,ne:7,ng:11,nl:54,no:79,nr:76,nz:107,om:3,pa:39,ph:141,pk:7,pt:128,pw:6,qa:5,rs:57,ru:54,rw:31,sa:5,sb:29,sc:99,se:57,sg:61,si:71,sl:37,sn:23,sr:89,st:29,sv:131,sz:58,tc:37,td:10,tj:26,tm:23,tn:5,to:88,tr:5,tt:157,tz:11,ug:9,us:75,uz:19,vc:113,vg:56,vu:161,xk:5,ye:3,za:50,zm:130,zw:142	iphone-free=kw:126,om:200	mac-free=bn:81
+1445123066	6017-mac-free=mn:150
+1445442810	6023-iphone-free=bb:182,bn:146,bs:186,bt:163,bz:155,cg:190,do:83,fj:154,gy:183,kn:156,ky:192,lc:199,lr:83,mg:173,mw:94,mz:138,na:156,ni:174,sl:127,tt:181,vc:121,zm:194
+1447937018	6006-iphone-free=md:162,tj:162	6006-mac-free=bs:102,tj:189,tm:109
+1447951610	6020-iphone-paid=bh:86	6020-mac-paid=sa:39
+1450340602	6013-iphone-free=bw:45,sz:166,vu:121,za:30,zm:188
+1450937082	6027-iphone-paid=ae:42,al:18,ar:48,at:18,au:41,be:28,bg:28,bh:25,bo:20,br:30,by:21,ca:42,ch:18,cl:20,cn:53,co:21,cz:22,de:30,dk:27,do:19,ec:53,es:37,fi:22,fr:23,gb:60,gh:29,gr:19,gt:15,hk:21,hn:32,hr:74,hu:25,id:51,ie:44,il:18,in:51,is:9,it:21,jp:49,kh:21,kr:29,kw:38,ky:15,kz:44,lb:15,lt:61,lu:15,lv:54,me:8,mt:17,mx:33,my:49,ng:21,ni:18,nl:38,no:27,nz:18,om:14,pe:21,ph:71,pk:45,pl:35,pt:33,py:25,qa:27,ro:39,ru:48,sa:63,se:34,sg:24,si:22,sk:26,th:25,tr:43,tw:24,ua:44,us:93,uy:46,vn:38,za:29
+1451227898	6020-iphone-free=nr:80
+1453334010	6020-iphone-paid=am:66,by:95,ch:193,gh:92,md:67,mk:52,ru:40,ua:3	iphone-paid=ua:114
+1453365242	6012-mac-free=ae:55,af:80,ag:33,ai:42,al:12,am:54,ao:32,ar:26,at:6,au:4,az:107,ba:16,bb:18,be:5,bf:43,bg:29,bh:13,bj:57,bm:10,bn:29,bo:20,br:7,bs:21,bt:33,bw:19,by:40,bz:18,ca:7,cd:62,cg:26,ch:2,ci:83,cl:28,cm:191,cn:60,co:68,cr:23,cv:11,cy:15,cz:6,de:3,dk:7,dm:17,do:9,dz:73,ec:14,ee:7,eg:85,es:9,fi:8,fj:11,fr:10,gb:4,gd:16,ge:37,gh:58,gm:79,gr:14,gt:25,gy:110,hk:3,hn:26,hr:6,hu:6,id:101,ie:25,il:25,in:105,iq:35,is:11,it:5,jm:28,jo:71,jp:2,ke:35,kg:16,kh:48,kn:15,kr:4,kw:47,ky:31,kz:90,la:28,lb:48,lc:17,lk:40,lt:23,lu:20,lv:15,ma:39,md:52,me:22,mg:24,mk:20,ml:75,mm:59,mn:71,mo:12,mt:14,mu:17,mv:9,mw:121,mx:10,my:8,mz:14,na:17,ng:53,ni:25,nl:3,no:3,np:43,nz:21,om:4,pa:17,pe:9,pg:11,ph:112,pk:78,pl:4,pt:2,pw:61,py:14,qa:8,ro:5,rs:32,ru:11,rw:29,sa:106,sc:30,se:2,sg:4,si:10,sk:27,sl:58,sn:64,sr:17,st:13,sv:31,tc:47,td:98,th:48,tn:55,tr:127,tt:11,tw:24,tz:60,ua:95,ug:8,us:7,uy:10,uz:107,vc:23,ve:27,vg:54,vn:110,xk:14,ye:110,za:10,zm:37,zw:34	mac-free=au:194,be:159,ch:57,de:110,gb:178,hu:188,is:167,jp:86,nl:129,no:82,om:136,pl:194,pt:147,se:91,sg:152
+1453416186	6009-mac-free=in:171,om:91
+1453989114	6015-iphone-free=mu:100
+1454093306	6005-iphone-free=am:99	6005-mac-free=cn:99
+1454552826	6004-mac-free=ec:158,gt:124,mx:158
+1454667770	6014-mac-paid=ae:144,al:80,ao:46,at:24,bh:63,bo:156,bs:68,bw:69,cr:43,cz:115,ec:167,eg:73,gt:184,gy:32,hk:160,hn:178,ie:173,iq:22,jm:118,jo:117,kh:198,kn:14,kw:121,kz:163,lb:193,lk:70,md:189,mk:32,mo:158,mt:184,mu:154,my:147,ng:92,om:109,pa:134,pe:168,ph:146,pk:66,qa:65,ro:194,sa:88,sz:4,tt:152,tw:124,ve:78,za:194
+1455587834	6017-mac-free=hk:32,la:181,mo:128
+1455818490	6000-iphone-free=st:190	iphone-grossing=st:30
+1457533434	6020-mac-free=bh:142,il:181
+1457972986	6015-iphone-free=az:26	6015-mac-free=az:42	iphone-free=az:180
+1458106362	6002-iphone-free=pk:55
+1458340090	6010-iphone-free=il:8
+1458454266	6003-iphone-free=bt:136
+1458917114	6015-iphone-free=by:13
+1458977530	6011-iphone-paid=kg:50,zw:66
+1460550650	6017-iphone-free=ao:46
+1461217018	6000-mac-free=br:155
+1461459706	6012-iphone-free=my:40
+1464115706	6007-iphone-free=nz:176
+1464123642	6020-mac-free=tw:112
+1466088186	6002-iphone-paid=ai:23,bb:39,bh:159,bm:70,bs:119,bt:20,ca:189,cd:122,gh:119,jm:91,kg:142,kn:66,kz:138,lk:118,mm:26,mn:73,mo:175,mr:62,mv:187,mz:195,ng:72,qa:165,sa:180,th:112,tj:158,vc:67,vn:94,zm:38,zw:199	iphone-paid=ai:137,bt:122,mm:156
+1466747898	6017-iphone-paid=kr:84
+1468259834	6011-iphone-paid=al:111,am:124,by:119,de:77,ee:139,gb:189,ge:68,hu:150,il:191,is:172,kg:115,kz:122,la:49,lt:97,ma:172,mu:198,ro:173,ru:181,si:139,ua:130,us:143,uz:158	6011-mac-paid=ae:118,am:47,ar:43,at:66,au:84,be:66,bg:42,br:120,by:23,ca:90,ch:80,cl:6,cn:69,co:61,cr:194,cy:38,cz:85,de:33,dk:78,ec:109,ee:28,eg:111,es:51,fi:34,fr:70,gb:49,ge:13,gr:63,gt:36,hk:88,hn:50,hr:45,hu:55,id:110,ie:48,il:37,in:44,is:21,it:76,jm:50,jp:69,kg:7,kr:57,kz:45,lb:39,lt:35,lu:74,lv:74,md:15,mk:13,mo:35,mx:88,my:83,nl:64,no:78,nz:74,om:72,pa:107,ph:92,pl:46,pt:20,qa:95,ro:34,rs:15,ru:32,se:38,sg:91,si:28,sk:48,th:90,tr:54,tw:76,ua:26,us:168,uy:38,uz:29,vn:19,xk:19,za:158	mac-paid=cl:30,ge:158,kg:147,rs:184,xk:106
+1470075130	6003-iphone-free=cz:135,sk:58	6003-mac-free=cz:52,hu:99,sk:24
+1470371578	6003-mac-free=ch:169,fr:95
+1470916090	6014-mac-free=pt:100
+1471986426	6006-mac-free=al:164,it:173
+1472532474	6015-iphone-free=am:183,by:165,ru:49
+1474023162	6009-mac-free=lu:163
+1477955834	6003-iphone-free=be:29,de:108,dk:10,fr:131,gb:41,ie:58,lu:180,nl:5	iphone-free=dk:78,nl:42
+1478687226	6023-iphone-free=gm:138,lc:26,mk:109,mv:25,xk:181
+1479071482	6004-iphone-free=pl:16,sk:42	6004-mac-free=pl:6
+1480425210	6020-iphone-free=kn:10
+1481017082	6017-mac-free=jp:60,mm:153,mv:142
+1481419770	6008-iphone-free=cn:166
+1481614074	6020-iphone-free=gd:183,hu:194,kn:128,lc:90,tc:52,us:99
+1483079930	6008-iphone-free=mt:92
+1483595258	6023-iphone-free=zm:104
+1483765498	6007-mac-paid=bs:46
+1484297210	6000-iphone-free=ph:77
+1484599290	6020-iphone-free=ru:145
+1484928250	6000-iphone-free=sk:82	6000-mac-free=sk:23
+1485028346	6015-iphone-free=pe:157
+1485567994	6024-iphone-free=rs:175
+1486136570	6000-mac-free=nl:125
+1486348026	6001-iphone-free=at:125,au:170,ba:48,be:161,ch:100,cn:152,cz:85,de:160,es:80,fi:75,fr:144,gb:103,hk:84,hu:161,in:124,is:4,it:120,kr:72,lu:32,mo:160,mx:77,my:108,nl:127,pl:53,sg:200,si:92,th:139,tw:62	6001-mac-free=is:9
+1488593402	6026-mac-paid=cl:79,cy:76,fi:119,gy:2,hr:129,id:152,in:152,ng:72,pt:154,se:198,vn:186,za:110	mac-paid=gy:86
+1490526714	6016-iphone-paid=am:188,ar:133,at:164,ba:29,bg:146,bn:42,bo:129,br:196,ca:191,cl:64,co:92,cr:48,cz:113,do:196,ec:84,es:144,fi:196,fj:17,fr:32,ga:10,ge:158,gr:186,gt:52,hn:45,hr:187,hu:87,id:158,ie:183,is:160,ke:183,lu:137,lv:183,mo:159,mt:193,mu:60,mx:108,my:150,ni:40,pa:55,pe:55,pk:152,pl:106,pt:142,py:92,ro:109,rs:143,sg:123,si:106,sk:112,sv:40,tt:141,ua:171,ug:60,uy:59,za:150	iphone-paid=ga:148
+1490599162	6009-iphone-free=sn:115
+1490741242	6023-iphone-paid=br:188,cl:110,cr:73,cy:75,eg:71,fi:159,id:96,in:149,kr:122,kw:93,om:32,ph:122,pl:183,ro:141,rs:33,ru:127,sa:134,se:195,sg:191,sv:38,th:76,tr:177,ua:53,vn:70
+1491751418	6013-iphone-free=sa:83	6013-mac-free=sa:159,tj:131
+1494416122	6027-mac-paid=am:39,at:167,be:197,br:143,by:36,cl:135,cy:50,cz:87,de:143,eg:122,fi:155,hr:98,in:168,is:106,kg:20,kw:151,lt:124,lu:95,lv:112,nl:7,pa:108,ph:142,pl:156,pt:151,ro:126,sa:177,sk:161,tj:11,tr:165,ua:161,us:194,vn:184	mac-paid=nl:179
+1494633978	6013-iphone-paid=am:134,bf:24,gh:100,il:154,kh:127,rs:153,uy:168
+1497083386	6008-iphone-paid=ma:174,vg:63,xk:112
+1497367034	6018-iphone-paid=bg:64,cl:191,ec:97,eg:98,fi:132,ge:16,gr:33,hr:120,id:88,in:109,kz:127,lk:46,ng:95,pa:111,pe:112,ph:28,pk:82,pl:121,ro:83,ru:100,th:104,tr:135,tw:169,ua:51,vn:80
+1497916410	6001-iphone-paid=ie:182,pl:199
+1498571002	6002-iphone-free=au:73
+1498589178	6005-iphone-free=ai:98,am:41,az:55,bj:114,bt:82,bw:162,by:27,ee:105,ge:23,kg:52,kz:84,lv:79,ly:125,md:61,nr:69,ru:42,sb:199,tj:80,tm:73,uz:33,vg:78	6005-mac-free=am:107,az:109,by:109,cg:121,ge:120,kg:159,kz:152,lt:164,lv:177,md:102,mg:123,ru:147,tj:60,tn:108,uz:96
+1499009274	6017-mac-free=sb:73
+1499421434	6014-iphone-paid=zm:146
+1500023802	6002-iphone-paid=ae:59
+1500582650	6020-iphone-free=ec:155
+1502948858	6014-mac-free=lv:78,sa:114
+1503207418	6000-mac-free=af:82,ag:104,al:155,ao:168,au:92,bb:66,bf:55,bj:75,bm:68,bn:110,bs:85,bw:42,bz:129,cd:80,cg:46,ci:87,cm:58,cv:180,cy:169,dz:183,fj:159,fm:60,ga:67,gh:102,gm:162,gy:114,jm:128,ke:159,kh:142,ky:55,lb:193,lc:85,lr:40,ma:170,mg:152,ml:102,mr:128,mu:163,mv:93,mw:75,mz:143,na:60,ne:52,ng:145,pg:31,pw:172,rw:134,sc:95,sl:41,sn:93,sr:188,tc:55,td:96,tn:180,to:31,tt:134,tz:123,ug:82,vc:88,vg:145,vu:21,xk:170,zm:58,zw:112
+1503271162	6002-mac-free=tw:95
+1503343866	6009-mac-free=cr:110
+1503720698	6020-iphone-free=ar:7,py:46	6020-mac-free=ar:115
+1503915770	6017-iphone-paid=ci:80,de:119,is:133,me:80
+1504556026	6000-iphone-paid=bg:199
+1504605178	6011-iphone-paid=rs:138,uz:147,xk:101
+1504952058	6014-iphone-paid=ae:27,ag:61,ai:116,al:68,am:183,ar:80,au:38,ba:72,bb:75,bg:134,bh:110,bm:57,bn:113,bo:67,br:84,bs:60,by:112,bz:95,ca:83,cd:175,ci:187,cl:20,co:82,cr:29,cv:150,cy:88,cz:119,dk:135,dm:128,do:113,ec:121,ee:107,es:33,fi:148,fr:114,ga:84,gb:158,ge:22,gr:136,gt:102,gy:89,hn:68,hr:166,id:18,il:24,iq:189,is:121,jm:96,jo:166,kh:50,kn:74,ky:2,la:109,lc:45,lk:187,lt:112,lv:125,ly:32,ma:102,md:93,me:105,mg:124,mk:88,mm:188,mn:121,mt:84,mu:97,mv:148,mx:25,my:63,ni:61,nl:45,pa:71,pe:71,ph:19,pl:78,pt:40,py:24,qa:188,ro:111,rs:12,ru:152,sc:158,se:114,sg:199,si:111,sk:173,sl:139,sr:12,sv:67,tc:66,th:97,tt:96,tw:167,ua:55,us:48,uy:110,vc:90,ve:5,vg:181,vn:135,xk:86,za:78,zw:163
+1505188090	6003-mac-free=az:71,ba:70,dz:169,ge:133,kg:104,md:173,sn:151,uy:182
+1505556986	6010-iphone-free=mr:51,sa:137
+1511309562	6012-iphone-free=dm:79
+1511677178	6027-iphone-free=jp:94
+1512701178	6026-iphone-free=pw:47
+1513910266	6020-iphone-paid=by:58,kz:42,lt:188,ru:84
+1515601402	6015-iphone-free=es:161
+1516038650	6024-iphone-free=bo:109
+1516082682	6000-mac-free=tr:58
+1517781498	6013-mac-free=sa:101
+1518627578	6023-iphone-paid=ae:22,bh:23,ci:5,de:189,dk:127,eg:35,il:24,jo:8,kw:15,lu:136,nl:185,om:2,qa:15,sa:6,se:154,tr:64	iphone-paid=om:196
+1518831866	6013-iphone-free=bf:94
+1519028218	6016-iphone-free=tr:27
+1519151354	6023-iphone-free=mv:181
+1522917370	6023-iphone-free=tt:1	iphone-free=tt:29
+1525357562	6017-mac-free=pk:143
+1526771706	6013-iphone-free=za:164	6013-mac-free=za:157
+1529361146	6003-iphone-free=nl:181
+1529745914	6014-iphone-paid=ae:117
+1529810682	6015-iphone-free=ve:197	6015-mac-free=ve:127
+1529898746	6020-iphone-free=no:122
+1533030138	6011-iphone-free=kr:146
+1533440762	6015-iphone-free=cl:74	6015-mac-free=cl:68
+1533573882	6024-iphone-free=ae:23,ag:105,bh:147,bm:73,bo:191,bt:148,cd:174,eg:132,fm:166,gh:163,jo:172,kw:52,lb:110,lt:193,ms:197,np:165,nr:142,ph:147,pk:116,qa:46,rw:193,sa:40,sl:187,sn:164,st:102	iphone-free=ae:166
+1534036986	6013-mac-free=zm:109
+1535033338	6020-iphone-free=la:182	6020-mac-free=th:96
+1535310330	6027-iphone-free=jp:108
+1536828922	6005-mac-free=at:193
+1537295866	6013-iphone-paid=bo:96,cz:166,ee:156,es:197,fi:197,it:153,lt:184,lv:132,pk:136,sk:189
+1539402234	6015-iphone-free=ag:103,bn:32,id:15	iphone-free=id:102
+1541323258	6000-mac-free=by:71,tj:150
+1541719546	6020-iphone-free=br:196
+1542016762	6010-iphone-free=af:175,ai:52,ba:77,bb:148,bf:100,bg:174,bh:99,bz:113,dz:99,ec:185,gt:77,gy:177,hr:185,in:185,jm:158,kg:192,kn:170,kw:103,ky:159,lk:88,ma:163,md:156,me:62,mg:22,mw:148,mz:143,na:187,ni:106,ru:131,sr:94,st:195,tj:143,tm:41,tn:57,tz:49,uy:81,vg:164,vn:93,ye:151,zm:181	iphone-grossing=pw:74
+1542294522	6003-mac-free=uy:170
+1542445050	6023-iphone-free=by:93
+1543502586	6020-mac-free=in:39
+1543845882	6014-iphone-free=ae:154,af:141,ag:68,ai:173,az:192,bb:143,bs:82,bw:119,bz:150,dm:72,dz:152,eg:156,fj:49,fm:35,gb:198,gd:13,gm:112,gy:142,ie:188,il:134,in:188,iq:112,ke:60,kn:48,kw:169,lc:150,lr:78,ly:168,ma:170,me:144,mk:112,ms:73,mw:126,ng:76,np:153,nr:154,om:166,pg:17,ph:156,pk:200,rs:159,ru:85,rw:186,sa:90,sz:24,tm:97,tt:177,tz:200,ua:189,vc:95,vu:36,xk:106,ye:84,za:118,zw:118
+1543879930	6008-mac-paid=al:44,sv:112,uz:54
+1543890938	6012-iphone-free=bj:82,cd:82,cg:65,ci:171,gh:91,lr:15,sl:93,td:35,zm:92
+1544740090	6023-iphone-free=pt:110
+1546336250	iphone-grossing=cd:89
+1546489082	6000-iphone-free=mn:185
+1548799738	6012-mac-free=ky:73
+1549559034	6014-iphone-free=bt:196,gt:198,kn:134,na:137,ne:167	6014-mac-free=to:166
+1550140666	6010-iphone-free=bf:55,rw:150
+1550733306	6023-iphone-free=hk:76
+1551307770	6016-iphone-free=nl:129	6016-mac-free=nl:109
+1552942074	6010-iphone-free=cz:2,lu:123,sk:10	iphone-free=cz:36
+1553038074	6015-iphone-free=tj:173
+1553427962	6023-iphone-free=la:11,mm:153,sg:77,th:9
+1553472250	6005-iphone-paid=ae:30,am:35,ar:52,at:75,au:68,az:37,bb:18,be:68,bg:20,br:42,bs:15,by:17,bz:6,ca:47,ch:69,cl:26,cn:120,co:57,cr:55,cy:42,cz:39,de:54,dk:47,do:21,ec:39,ee:53,eg:44,es:46,fi:67,fr:72,gb:70,ge:18,gr:39,gt:50,hk:51,hn:23,hr:37,hu:39,id:58,il:31,in:59,is:36,it:29,jm:29,jo:26,jp:74,kg:12,kh:35,kr:50,kw:81,kz:31,lk:14,lr:6,lt:50,lv:14,ma:18,me:11,mk:13,mn:14,mt:26,mu:28,mx:19,my:39,mz:7,ng:66,nl:46,no:125,nr:3,nz:57,om:28,pa:33,pe:45,ph:31,pk:56,pl:43,pt:46,py:28,qa:35,ro:30,ru:61,sa:53,se:56,sg:54,sk:44,sn:21,sz:2,th:41,tr:41,tw:42,tz:14,ua:31,us:98,uy:13,uz:26,vn:55,ye:6,za:54	iphone-paid=mz:168,nr:31,sz:148
+1554077178	6013-iphone-free=ve:163	6013-mac-free=ar:58,at:149,ba:50,bb:84,be:61,bh:103,bo:65,br:43,ch:179,ci:54,cl:45,co:62,cr:63,cy:81,dz:107,ec:83,ee:109,es:70,fi:130,fr:76,gr:69,gt:106,hn:98,hr:85,ie:110,is:75,it:196,ke:137,kw:194,lb:151,lt:175,lu:87,lv:135,ma:108,me:100,mk:47,ml:64,mm:187,mo:69,mx:114,ne:22,ni:125,pe:77,pl:159,pt:71,py:49,qa:124,se:155,si:88,sk:137,sn:76,sv:196,td:44,to:5,tr:149,uy:34,ve:18,zm:102
+1554235898	6026-mac-paid=ae:59,am:12,ar:88,au:38,bh:18,br:59,by:11,ca:39,ch:40,cl:56,cn:42,co:73,cr:92,do:24,eg:46,gb:45,ge:8,gt:46,hk:28,id:36,il:37,in:26,iq:4,is:22,jo:37,jp:57,kr:36,kz:27,mm:4,mx:58,my:47,no:40,nz:44,pa:47,pe:97,ph:54,pk:63,rs:7,ru:36,sa:79,sg:34,th:54,tr:50,tw:58,tz:22,ua:17,us:75,uy:19,uz:23,vn:28,za:50	mac-paid=iq:85,mm:98,rs:178
+1556025594	6017-iphone-free=vn:34	6017-mac-free=kh:17,vn:3	mac-free=vn:90
+1559233786	6018-iphone-free=ae:33,af:23,ai:138,al:22,at:114,au:120,ba:23,bb:22,be:92,bh:62,bm:93,bn:84,bw:170,ch:74,cz:170,de:80,dk:42,dz:49,eg:58,es:182,fi:54,fj:128,fr:179,gb:61,gh:80,gm:17,gw:89,gy:158,ie:97,il:122,in:34,iq:48,is:78,it:188,jo:46,ke:26,kg:47,kh:87,kw:104,kz:121,lb:20,lk:8,lr:128,ma:57,me:79,mg:21,mk:24,mt:151,mu:42,mv:5,mw:69,my:59,mz:68,ne:141,ng:70,nl:75,no:100,nr:16,om:33,pa:99,ph:175,pk:12,pw:17,qa:24,rw:30,sa:112,sb:37,sc:60,se:60,si:186,sl:68,sn:175,sr:104,st:125,sz:154,tj:12,tn:73,tt:111,tz:48,ug:102,uz:44,vg:121,xk:57,za:100	iphone-grossing=mv:65
+1559710714	6016-iphone-free=kr:123
+1560684538	6015-iphone-free=ie:127
+1560799482	6018-iphone-free=at:39,be:148,cg:187,ch:122,de:59,dk:122,fr:166,ga:166,jp:65,lu:121,mg:122,ml:74,ne:159,pt:121,sn:193
+1562552826	6018-iphone-free=gm:191,id:3,my:96,sb:157,tw:183
+1563363322	6024-iphone-free=al:9,ba:14,hr:9,me:3,mk:42,ms:184,rs:8,si:22,xk:188	iphone-free=al:76,ba:87,hr:20,me:12,rs:22,si:47
+1563698682	6017-mac-free=my:131
+1565483514	6023-iphone-free=ec:36
+1565707258	6000-iphone-free=bz:52,kw:174,mr:165,mt:94,np:12,qa:119	6000-mac-free=hr:47,np:158
+1566527994	6015-mac-free=mo:200
+1567696122	6005-iphone-free=jp:104	6005-mac-free=jp:87
+1569643514	6026-iphone-free=py:172,sv:161	6026-mac-free=at:41,ch:75,gt:97,jm:166,mw:176,pa:155,ph:199,py:170,sl:193,sv:122
+1571850234	6012-iphone-free=cn:98
+1572221178	6023-iphone-free=gh:96,ng:22
+1573360122	6013-iphone-free=bo:191	6013-mac-free=ni:122,xk:71
+1573887994	6013-iphone-free=pl:58
+1574337786	6017-iphone-free=bf:187,gw:143	6017-mac-free=ai:97
+1575951354	6015-mac-free=ao:139,ba:164,bf:60,bs:165,bw:190,cd:100,cg:170,ci:118,cv:29,cz:104,dm:54,dz:122,gr:111,gt:159,hr:190,hu:59,id:118,il:198,lc:75,lr:95,me:68,mg:68,ml:180,mo:159,mw:111,se:193,sk:10,sl:61,sn:87,th:138,tt:138,tz:189,ua:144,ve:200,vn:177,xk:154,zm:130
+1576150266	6020-mac-free=al:130
+1577127674	6027-iphone-free=hn:145,in:189,mv:50	6027-mac-free=ua:39
+1577835770	6003-mac-free=tj:86
+1581754362	6020-mac-free=am:104,ba:70,bg:152,cy:174,kg:118,lv:170,tj:70
+1581958906	6002-iphone-free=ph:41
+1582596858	6014-mac-free=pw:105
+1582953722	6013-iphone-paid=ng:188,rs:140
+1583021562	6014-mac-free=pw:173
+1583225594	6020-iphone-paid=br:7,jm:67	iphone-paid=br:92
+1584048122	6000-iphone-free=ag:122	6000-mac-free=sr:172
+1584308730	6024-iphone-free=jp:70
+1585172474	6018-iphone-free=ie:128
+1585746170	6018-iphone-free=ec:119
+1586446074	6007-mac-free=sa:146
+1586973178	6023-iphone-free=bw:34,mu:15,mw:89,mz:20,na:33,ng:51,sz:9,tz:45,za:45,zm:16,zw:89
+1588231418	6017-iphone-free=bn:77,bz:50,lc:160,sc:200,vc:192,vu:197
+1590110970	6006-iphone-paid=au:49,bh:144,cy:187,kg:70,lt:173,mn:58,uy:174
+1590946554	6006-iphone-free=ru:190	6006-mac-free=kg:153,ve:166
+1592811258	6020-iphone-free=af:190,cd:199,ke:151,lv:129,pg:154,tz:183,zm:187
+1595555578	6000-iphone-free=kz:164
+1595994106	6020-iphone-free=jp:44
+1597929978	6011-iphone-paid=ba:70
+1600637178	6002-iphone-free=in:148
+1603904250	6007-iphone-free=se:110
+1605667322	6006-mac-free=is:154
+1606431994	6013-mac-free=ni:111
+1606696186	6023-iphone-free=it:95
+1607884026	6023-iphone-free=dk:107
+1608170490	6014-mac-free=hu:177,xk:195
+1609081082	6009-iphone-free=tc:87,tr:142	6009-mac-free=tr:104
+1609134586	6000-iphone-free=fi:96
+1609171450	6017-iphone-paid=zm:60
+1609853178	6011-iphone-free=kz:84
+1610311930	6000-iphone-free=gr:160
+1614240506	6017-iphone-free=ml:110
+1615338746	6006-iphone-free=my:75
+1615702266	6015-iphone-free=is:187
+1616421370	6013-iphone-free=mm:144
+1616804346	6015-iphone-free=bg:173,fj:195,ky:112,ne:155
+1617272826	6024-iphone-free=se:150
+1617292282	6011-mac-free=bs:180,bt:191,gd:193,nl:161
+1618745850	6000-iphone-free=pa:134
+1619337466	6023-iphone-free=ec:192
+1620216570	6020-iphone-free=ug:35	6020-mac-free=am:184,ba:66,ee:127,gy:37,pl:190,rs:134,si:146
+1620528890	6027-iphone-free=cn:32,hk:195,mo:37,tw:140	6027-mac-free=ch:47,mo:173
+1622611450	6023-iphone-free=bf:79
+1622937082	6017-mac-free=ro:116
+1623498490	6024-iphone-free=kr:165
+1624047354	6020-iphone-free=kr:170
+1624735226	6003-iphone-free=ga:97
+1625038842	6002-iphone-free=cn:192	6002-mac-free=cn:128
+1625443834	6017-iphone-free=gb:103
+1626798074	6024-iphone-free=am:1,bt:52,ge:200,nr:88	iphone-free=am:5	mac-free=am:116
+1627462650	6023-iphone-free=cd:175,mw:72,na:200,zm:19,zw:127
+1628903930	6016-iphone-free=us:184
+1629891322	6017-iphone-free=pl:105
+1630130426	6002-iphone-free=me:89,rs:103
+1630343674	6016-iphone-free=al:57,bn:168,br:131,do:182,mx:104,sr:98,td:112,tm:200
+1631849210	6017-iphone-free=nz:193
+1632611066	6020-iphone-paid=bg:150,bh:125,ee:88,mt:80,us:175
+1636778746	6023-iphone-free=gh:107
+1637306618	6013-iphone-paid=cn:28	6013-mac-paid=ca:104,cn:55
+1637634298	6016-mac-paid=cr:69
+1637695226	6017-iphone-free=kz:99
+1638267130	6012-iphone-free=hk:35
+1638906106	6011-iphone-free=ae:129,at:157,au:123,bb:118,be:162,bg:147,bm:127,bs:129,bt:117,bw:143,ca:117,cl:139,co:186,cr:130,cy:176,cz:134,dk:126,ee:101,eg:176,es:191,fi:65,fr:148,gb:50,gr:147,gt:171,hn:184,hu:182,ie:51,il:116,is:29,jm:161,ke:24,kw:131,ky:155,lt:129,lv:141,md:132,mn:129,mv:38,mw:59,mx:130,mz:77,na:125,ng:153,ni:135,nl:97,no:79,pa:120,pe:119,ph:90,pk:137,pl:156,pt:127,py:103,ro:137,sa:81,se:90,sg:157,sv:79,sz:185,tc:82,tn:174,tt:53,ug:140,us:55,uy:188,vg:169,zm:65
+1639283194	6002-mac-paid=jo:194
+1643708154	6024-iphone-free=mz:188,qa:102
+1644128762	6017-iphone-free=gh:180
+1644414970	6007-iphone-free=us:99
+1658552058	6014-iphone-free=br:104
+1658828282	6023-iphone-free=ca:45,gt:132
+1661957370	6000-iphone-free=bb:42,gm:130,ml:108,ne:42,pg:53,rw:146,sn:170,td:41
+1663448058	6017-iphone-free=jp:124
+1666225914	6002-iphone-free=vn:130
+1667890426	6020-mac-free=lv:158
+1670083066	6007-mac-free=td:160,tn:34	mac-free=tn:133
+1677865978	6013-iphone-paid=gb:104,iq:33,me:30,mk:115,mv:32
+1896794106	6017-iphone-free=me:90,rs:153,si:127,sk:150,sv:161,uy:196
+6443555834	6012-iphone-free=bz:197,gy:90
+6443789818	6008-iphone-free=th:128,tw:59
+6443919866	6015-iphone-free=bw:41
+6443920890	6000-iphone-free=sn:120
+6443958778	6015-iphone-free=co:71	6015-mac-free=co:88
+6443991034	6011-iphone-free=al:110,am:13,az:40,ba:24,bg:197,bo:94,by:80,cy:127,dm:41,do:81,ee:108,ge:42,gh:136,hn:126,hr:110,hu:142,jm:123,jp:148,ke:148,kh:74,kr:119,kz:35,lt:98,lv:156,md:30,me:38,mk:31,mt:97,ni:72,pk:139,ro:78,rs:34,si:81,sn:99,sv:134,tw:81,tz:179,ua:92,uy:170,ve:88,ye:188
+6444021754	6007-iphone-free=ai:182,al:184,ao:81,ar:200,bb:163,bj:116,bm:101,bn:102,bo:186,br:51,cd:66,cg:56,ci:73,cm:118,co:53,cr:160,cv:120,dm:129,do:99,ec:54,eg:92,gh:176,gm:151,gt:180,gy:53,hn:94,id:81,iq:116,it:168,jm:55,jo:181,kg:179,kw:184,kz:140,la:61,ly:85,ma:78,ml:80,mr:22,mt:56,mw:52,mx:137,mz:39,ne:58,ng:84,ni:101,pa:130,pe:76,pk:140,py:51,ro:171,ru:167,sn:97,sr:85,st:174,td:155,tj:106,tn:194,tr:124,tt:61,ug:142,uy:132,ve:37,zm:127,zw:153	6007-mac-free=br:145,gw:165,ly:167,st:115,ye:169	iphone-free=mr:186
+6444187898	6014-mac-free=md:55
+6444220922	6017-iphone-free=pe:157
+6444309754	6000-iphone-free=fi:84
+6444732922	6003-mac-free=mn:108
+6444919546	6004-iphone-free=cn:143	6004-mac-free=cn:174
+6445867002	6015-iphone-paid=cy:92,ee:60,ie:140,sk:151
+6446094330	6003-mac-free=bg:151
+6446277114	6014-iphone-paid=sa:113
+6446322426	6013-mac-free=fr:25
+6446606074	6004-iphone-free=mn:115	6004-mac-free=mn:72
+6446943226	6010-iphone-free=uy:97
+6446947322	6006-iphone-free=si:85
+6447357178	6020-iphone-free=de:105,lu:94
+6447364090	6015-mac-free=ao:168,ba:133,bg:191,bh:180,bj:99,bm:38,bn:113,bo:147,bw:167,cg:149,cn:100,dk:139,do:199,dz:181,ee:134,eg:197,fi:186,gr:199,hk:195,id:179,ie:180,il:149,iq:149,jm:156,jo:172,ke:191,la:98,lb:112,lt:144,ma:177,mg:155,mk:108,ml:153,mm:157,mn:194,mo:103,mz:184,no:165,nz:192,pl:197,pw:49,rw:97,sa:175,se:184,sg:173,si:127,sl:114,sv:159,td:81,th:184,tm:154,tn:136,vg:21,xk:128,ye:104,za:199,zm:81
+6447491322	6011-iphone-paid=md:182
+6448078074	6005-mac-free=ar:194,at:69,au:70,be:115,bf:106,bg:108,bo:126,br:155,ca:24,ch:111,cl:165,cy:143,cz:131,de:71,dk:82,ee:128,es:145,fi:87,gb:172,gr:23,hr:102,hu:120,ie:87,in:127,is:58,it:179,kg:146,lb:45,lu:100,lv:106,mk:52,nl:125,no:83,nz:122,pa:186,pl:141,pt:114,ro:166,rw:90,se:73,sg:174,si:86,sk:133,sv:85,tr:25,us:52,uy:179
+6448864506	6020-iphone-free=ro:29
+6448938746	6017-iphone-paid=ge:176
+6449016058	6020-mac-free=cn:136,eg:200,mg:28,sv:114,tn:112
+6449492986	6004-iphone-free=au:7	6004-mac-free=au:42
+6449820666	6024-iphone-free=rw:33
+6449881082	6002-iphone-free=ua:95
+6449995770	6011-iphone-free=sk:114
+6450010362	6015-iphone-free=ma:97
+6450216954	6000-iphone-free=ua:56
+6450423034	6005-iphone-free=mr:113
+6450833658	6014-mac-free=be:126,nl:133
+6450868730	6016-iphone-free=mm:16	6016-mac-free=mm:173	iphone-free=mm:187
+6450965754	6020-iphone-free=ae:101,au:26,be:50,bg:7,cz:127,ee:3,es:79,fi:42,fr:87,gb:34,gr:16,hr:118,hu:115,ie:54,it:86,lt:9,lv:14,my:60,nl:113,nz:32,ph:79,pl:27,ro:22,sa:21,se:120,tr:35,za:29
+6450978042	6007-iphone-free=mo:104,vn:157	6007-mac-free=ae:65,af:136,al:42,ao:40,ar:191,au:134,az:53,bf:24,bj:173,br:29,bs:86,bt:180,bw:11,bz:183,ca:104,ch:138,cn:79,co:129,cv:42,dk:62,dm:180,do:103,dz:17,eg:57,es:153,fr:54,ge:102,gh:21,gy:118,hn:15,hu:113,il:135,iq:141,it:181,jm:141,jo:35,ke:122,kr:49,kw:78,lk:123,lv:131,ma:164,ml:185,mn:44,mx:106,my:197,ng:96,no:59,np:118,pa:39,pe:77,ph:107,pk:148,pl:141,pt:45,py:31,ro:25,ru:77,rw:157,sn:77,tj:160,tn:23,to:69,tt:13,tw:106,ua:29,ug:92,ve:190,vn:33,xk:20,za:197,zm:16	mac-free=al:196,ao:184,bf:82,br:110,bw:21,cv:192,dz:65,gh:109,hn:49,jo:95,kr:158,pa:152,pt:174,py:133,ro:99,tn:90,tt:46,ua:131,vn:145,xk:61,zm:68
+6450997754	6015-iphone-free=ca:154	6015-mac-free=ca:92
+6451427834	6013-mac-free=bs:47,bw:88,de:115,nl:42
+6453687290	6008-iphone-free=ao:117,do:165,dz:153,eg:143,iq:142,ly:59,mr:160,td:160,tj:88,ye:62
+6455427578	6003-mac-free=na:71,zm:45
+6459363834	6005-mac-free=kr:116
+6461772282	6004-iphone-free=kw:101	6004-mac-free=lb:158
+6462132986	6015-mac-free=ru:30
+6462593274	6013-iphone-free=fm:156,gw:194,kn:164,pg:185,td:90,to:130,vc:195,vu:110
+6463010042	6023-iphone-free=ch:68
+6464475130	6015-iphone-free=ke:154,pw:74
+6464537594	6017-mac-free=bm:62,dm:64,eg:135,hn:195,jo:137,mx:80,pa:112,tt:131,us:116,uy:114,vg:36
+6464570618	6017-iphone-free=pa:185
+6466821114	6024-iphone-free=by:156,ru:134
+6468026362	6001-iphone-free=ga:43,hk:182,mo:163,tw:27,vu:51	6001-mac-free=sk:168,tw:31
+6468082170	6017-mac-free=ar:51
+6468357626	6018-iphone-free=dk:129
+6468667130	6000-iphone-free=ua:143	6000-mac-free=ua:107
+6468846330	6012-mac-free=kh:99
+6468965114	6027-iphone-paid=ae:66,at:89,au:122,bf:2,bg:89,bh:21,bm:9,br:160,ca:111,cl:86,cn:144,de:91,eg:35,fi:83,fr:105,gb:171,gr:51,hk:50,hu:89,id:108,il:113,in:46,iq:23,jo:8,kh:33,kr:121,kw:66,mx:79,my:32,nl:193,no:148,nz:111,om:49,pg:3,ph:62,pk:34,pl:98,pt:80,qa:51,ro:93,sa:35,se:150,sg:68,th:121,tr:81,tw:58,ua:66,us:186,vn:55,za:33
+6469464058	6004-iphone-free=au:166
+6469588474	6010-iphone-free=pk:125,sz:190
+6471127802	6017-iphone-free=az:66
+6471397370	6015-iphone-free=sa:120
+6471439866	6006-iphone-free=lr:58
+6471837434	6015-iphone-free=ro:99	6015-mac-free=ro:199
+6471983098	6013-mac-free=mx:165,ni:92
+6472025082	6024-iphone-free=in:190
+6472162810	6006-iphone-free=mn:157,sl:150,vc:187,zm:140
+6472252666	6006-iphone-free=bn:195,my:15	6006-mac-free=bn:74,my:110
+6472542714	6008-mac-free=fi:53
+6472951034	6004-mac-free=rs:175
+6473640698	6024-iphone-free=kz:25
+6473674490	6005-mac-free=ao:122,sv:128
+6473790458	6017-mac-free=be:178
+6473813242	6006-iphone-free=kr:47
+6474023418	6020-iphone-free=it:140
+6474068474	6001-iphone-paid=eg:68,id:140,in:164,kr:20,mx:185,sa:171,sg:139,th:157,tr:72
+6474076666	6002-iphone-paid=de:63,gb:181,nl:1	iphone-paid=nl:6
+6474358010	6004-iphone-paid=kw:163
+6474623482	6003-iphone-paid=bg:131
+6474688506	6020-iphone-free=ve:90
+6474708474	6007-iphone-paid=bo:129,mx:134,sv:176
+6474788602	6023-iphone-free=sn:144
+6474943226	6020-iphone-free=bw:8	6020-mac-free=bw:65
+6475264250	6002-iphone-free=ae:171,af:124,ar:63,bh:42,cl:139,cr:91,ec:90,gt:49,hn:29,id:51,kw:49,mx:86,ni:60,om:71,pa:85,pe:115,ph:24,qa:39,sv:78,sz:128,tw:36,uy:65
+6475376378	6008-iphone-free=af:14,az:160,dz:129,ma:161,mr:84,vu:99	6008-mac-free=af:149,ag:112,ai:27,am:112,co:156,dm:80,dz:197,fm:94,gw:58,kn:163,ly:106,mn:110,mr:194,np:64,nr:31,pw:65,sb:87,sr:126,sv:12,tc:110,td:28,uz:146,vc:181,vg:40,vn:188,ye:177	iphone-free=af:49	mac-free=sv:106
+6475756282	6015-iphone-free=am:15,me:81	iphone-free=am:172
+6475757306	6014-iphone-free=at:15,au:38,be:8,ca:36,ch:37,de:21,es:184,fr:73,gb:12,hk:79,ie:168,it:44,jp:29,kr:84,mk:199,nl:13,no:172,nz:71,pl:84,se:32,tm:160,tw:139,us:27	6014-mac-free=ua:198	iphone-grossing=ag:66,at:39,au:65,be:40,bn:78,ca:50,ch:75,de:54,eg:96,fm:79,fr:52,gb:37,gr:66,it:49,jp:55,kn:59,kr:96,ky:20,lu:99,lv:89,md:88,mt:61,nl:44,nz:71,pl:70,ro:92,rs:75,se:72
+6476036602	6026-iphone-free=ai:163,bs:167,bw:117,by:111,gb:171,gd:152,gm:200,jm:182,kn:144,lc:153,lr:142,mw:131,na:186,ng:132,pa:198,pg:79,sb:159,sc:177,sr:75,ug:195,vg:137
+6476078330	6018-iphone-free=ci:149,dz:167,td:34
+6477283578	6003-mac-free=hk:38,mo:96
+6477445114	6017-iphone-free=co:128	6017-mac-free=co:52
+6477692154	6024-iphone-free=id:82
+6477746938	6017-iphone-free=lr:54
+6477857274	6008-mac-free=be:171,it:124,tr:200,ua:185
+6477877754	6020-mac-free=ch:137
+6477968378	6016-iphone-free=kh:120,la:124,lk:195,mm:59,mv:198,sr:116
+6478203642	6023-iphone-free=cz:95
+6478442234	6008-iphone-free=bn:183
+6478524922	6002-iphone-free=de:164,fr:176,gb:190,na:167
+6479373050	6007-iphone-free=ae:130,al:177,am:131,ar:110,at:94,au:76,az:135,ba:125,be:122,bg:103,bh:120,bo:112,br:95,bs:93,ca:71,cd:123,cg:145,ch:87,cl:122,cm:179,co:149,cr:107,cy:89,cz:28,de:101,dk:146,do:58,dz:96,ec:127,ee:83,eg:122,es:81,fi:100,fr:142,gb:105,ge:80,gh:125,gr:94,gt:72,hk:104,hn:89,hr:72,hu:49,ie:63,il:107,in:151,iq:140,is:96,it:99,jm:101,jo:143,ke:98,kg:88,kh:189,kr:69,kw:151,kz:94,la:185,lb:139,lc:153,lk:156,lr:153,lt:91,lu:92,lv:141,ma:92,md:164,me:89,mk:80,mn:156,mr:163,mv:90,mx:112,mz:157,na:125,ne:106,ni:147,nl:144,no:87,np:149,nr:172,om:150,pa:101,pe:113,pg:157,ph:158,pk:176,pl:56,pt:74,pw:141,py:66,ro:128,rs:91,sa:173,se:78,sg:109,si:59,sk:36,sv:65,td:195,th:137,tj:103,tr:115,tw:174,ua:66,ug:145,us:82,uy:109,uz:156,vc:61,ve:132,vg:172,xk:146,ye:161,za:84,zm:194
+6480014586	6002-iphone-free=vc:139
+6480524794	6014-mac-paid=ag:19,rs:175
+6497066234	6017-mac-free=jo:169
+6499133690	6005-iphone-free=ua:67
+6499241466	6014-mac-free=kr:133
+6499274234	6020-iphone-free=de:103
+6499296762	6024-iphone-free=mn:133
+6499420410	6024-iphone-free=ph:56
+6499457274	6010-iphone-free=iq:171
+6499490810	6011-iphone-paid=ba:55,gb:137,kz:170,ma:103,mv:29,xk:43
+6499518970	6005-mac-free=cn:98
+6502574330	6011-iphone-free=cr:20
+6502647802	6027-mac-free=cn:97,fr:169,gb:198,hk:48,me:188,mk:54,vn:44
+6502685434	6000-mac-free=pw:123
+6502935290	6020-iphone-free=cz:191,do:124,hr:65,mn:190,sa:164,si:108,uz:100,vg:156	6020-mac-free=hn:151,jo:153,sk:84,uz:150
+6502937850	6015-iphone-free=kz:116
+6503343866	6002-iphone-free=to:50
+6503405050	6013-mac-free=bh:66,bo:108,cl:105,fi:93,ge:132,gt:175,hr:196,kw:165,mt:200,ne:17,np:154,rs:141,tj:76,tz:163,ug:178
+6504274426	6026-mac-free=cn:53,hk:149,mo:129,sl:154,us:159,vu:11,xk:138
+6504763130	6017-mac-free=ve:124
+6504776954	6004-iphone-free=do:151
+6504913402	6016-iphone-paid=gr:169
+6505143802	6015-iphone-free=in:154
+6553996538	6024-iphone-free=ge:125
+6566176762	6003-iphone-free=kr:80
+6566183674	6024-iphone-free=by:41,vc:31
+6566188538	6000-iphone-free=gh:173
+6575365626	6024-iphone-free=rs:101
+6581485306	6002-iphone-paid=bm:135,ee:93,la:100,lt:167
+6618147066	6000-iphone-free=lr:45
+6642710010	6014-iphone-free=ae:133,az:182,il:191,iq:43,kw:196,lb:186,qa:122,sa:71,tc:40,ye:164	iphone-grossing=af:61,sb:50,sv:82
+6648773626	6024-iphone-free=my:186
+6651840506	6024-iphone-free=gb:104
+6670270714	6013-iphone-free=is:14	6013-mac-free=is:48	iphone-grossing=is:28
+6670484474	6000-iphone-free=tw:138	6000-mac-free=tw:82
+6670787578	6026-mac-paid=ee:91
+6673919994	6017-mac-free=br:43
+6677037562	6007-mac-paid=ae:159,al:41,az:55,ba:31,bh:100,bo:106,by:32,ca:18,cd:16,ch:38,co:164,cy:104,cz:140,ec:127,ee:2,eg:81,fi:169,ge:57,gt:177,hn:146,hr:147,id:155,il:139,in:171,is:147,jo:61,jp:149,kh:121,kw:115,kz:67,la:28,lt:150,ma:4,mo:97,mt:100,my:139,na:80,ni:78,pe:151,pg:25,ph:114,pk:75,pl:162,pt:200,py:81,qa:152,ro:114,rs:38,si:157,sk:198,sv:77,th:13,tr:141,tz:89,uy:11,uz:25,ve:34,vn:70	mac-paid=ba:125,by:153,ca:75,cd:86,ch:191,ee:10,la:144,ma:33,pg:174,rs:138,th:50,uy:58,uz:90
+6680192506	6015-mac-free=jo:164
+6683312122	6017-iphone-free=fi:130	6017-mac-free=co:97
+6702014202	6016-iphone-free=bj:183,cm:18,rw:8	iphone-free=rw:83
+6736373498	6004-iphone-free=az:8,bf:152,ci:156,ec:187,hu:23,mk:117,mo:124,pl:181,ro:28,tr:21	6004-mac-free=tz:163
+6736718586	6004-iphone-paid=vn:157
+6737181946	6003-iphone-free=cn:193
+6737223418	6024-iphone-free=ag:11,al:78,au:131,ba:181,bb:161,bg:114,bm:44,bs:40,bw:194,bz:102,cd:142,cg:55,ch:82,cy:72,dk:191,do:113,ec:103,ee:150,gd:112,gh:83,gm:96,gr:116,gw:23,gy:32,hn:106,hr:118,ie:114,jm:41,ke:174,kn:42,ky:197,lc:102,lr:171,lt:166,lu:189,me:50,ml:123,mt:115,mu:174,na:121,ni:104,no:154,nz:151,pl:184,py:166,sc:80,se:171,si:96,sl:58,sr:69,st:161,sv:169,tc:99,to:173,tt:45,tz:60,vc:114,xk:190,za:186,zm:149	iphone-free=ag:178
+6737516026	6002-mac-paid=de:168
+6738949114	6014-iphone-free=ph:48	6014-mac-free=ph:68
+6739476218	6002-mac-free=bn:197,mx:92,my:187,ph:166,ro:102
+6739505658	6017-iphone-free=lk:33	6017-mac-free=lk:31
+6739629818	6015-iphone-free=rw:149,tz:156
+6739729146	6018-iphone-free=ca:130,in:52,pk:180
+6739872762	6024-iphone-free=me:153,mv:159
+6739945978	6013-mac-free=no:138,sn:155
+6739955450	6006-mac-free=al:106,ao:172,bg:111,bt:62,by:15,cm:131,co:165,cy:166,dz:158,ge:82,id:184,il:108,iq:122,jm:159,jo:150,jp:192,kg:140,kw:193,kz:153,lt:11,ma:145,md:112,mg:142,mo:189,mu:140,mx:21,pe:140,pl:172,ru:51,se:177,sl:113,tw:194,ua:100,us:175,uy:131,vn:124,ye:83
+6740029434	6005-mac-free=si:187
+6740310522	6024-iphone-free=jp:106
+6740408570	6013-mac-free=ao:106
+6740539642	6007-mac-free=br:188,cy:27,cz:118,dz:71,eg:42,id:106,in:158,kz:39,md:22,ng:62,np:75,pk:177,pl:185,ua:43,vn:152	mac-free=cy:127,eg:161,kz:168,md:106,ua:193
+6740566266	6000-iphone-free=uz:147
+6740853498	6014-mac-free=cn:140
+6740854266	6017-mac-free=bb:174
+6741090554	6016-iphone-paid=ca:86,ke:157
+6741119738	6011-iphone-free=nl:131
+6741205754	6003-iphone-free=bt:113,in:147
+6741578234	6005-mac-free=il:22
+6741769722	6023-iphone-free=gh:119
+6741842938	6004-mac-free=vg:5
+6741858810	6015-mac-free=sn:60
+6741865978	6027-mac-free=ye:175
+6742114042	6013-iphone-free=ly:76,om:143,sa:125	6013-mac-free=mr:19,om:187
+6742137082	6007-iphone-free=ch:177,za:178
+6742167290	6002-iphone-paid=me:18	iphone-paid=me:182
+6742315514	6002-iphone-free=ch:49
+6742450682	6004-iphone-free=uz:81
+6742790138	6005-mac-free=mo:151
+6743419642	6011-iphone-paid=ba:52,ge:172,ke:184,us:112
+6743462906	6015-iphone-free=my:125
+6743546618	6020-mac-free=nl:19
+6743663098	6026-iphone-free=ni:32
+6743755258	6003-mac-free=in:56
+6743926010	6016-iphone-free=gr:33	6016-mac-free=cy:111,gr:113
+6744170490	6010-iphone-free=br:120
+6744175610	6000-iphone-free=sa:53
+6744203258	6003-mac-free=lv:183
+6744259834	6020-mac-free=pt:160
+6744710906	6003-mac-free=us:18
+6744743418	6007-mac-paid=cy:143,ge:120,om:142,py:130
+6744819194	6014-iphone-free=ag:139,kh:95
+6745179898	6013-iphone-free=br:94
+6745482234	6004-iphone-free=ne:41
+6745691386	6016-iphone-paid=cn:151,iq:55,la:29,mn:95
+6746131706	6014-mac-free=gr:93
+6746156794	6012-iphone-free=mw:152
+6746223866	6023-iphone-free=eg:196
+6746330362	6013-mac-free=dz:161,ye:23
+6746458618	6023-iphone-free=ma:30,td:29
+6746483706	6003-iphone-free=mu:154	6003-mac-free=si:190
+6747105786	6018-iphone-free=bo:36,jm:133,kr:85
+6747297786	6014-mac-paid=de:148
+6747965434	6013-iphone-free=af:45,nr:75
+6748218874	6004-iphone-free=nz:123
+6748219642	6007-iphone-free=cm:198
+6748286202	6024-iphone-free=mr:66
+6748347130	6012-iphone-free=np:144
+6748427258	6027-iphone-free=md:185
+6748484090	6005-iphone-free=bh:88
+6748535546	6017-iphone-paid=kr:12,la:57,nl:46	6017-mac-paid=id:106,ph:132	iphone-paid=kr:123
+6748601850	6010-iphone-free=al:123,dz:169,hn:44,kh:200,la:143,my:70,om:150,pk:184,ru:186,th:42,vn:145
+6748681978	6002-mac-paid=at:113,au:17,az:191,ba:16,bm:24,ch:31,de:18,dk:8,dz:49,hu:198,is:169,jm:119,nz:12,om:157,sk:4,tj:52,us:168,zm:18	mac-paid=au:51,ba:41,bm:93,ch:98,de:60,dk:19,dz:153,nz:31,sk:10,tj:148,zm:77
+6748843002	6000-iphone-free=bg:67
+6748876794	6003-iphone-free=sa:159	6003-mac-free=az:159,ee:191,ug:85
+6748913914	6020-iphone-free=ci:164
+6748978938	6002-iphone-free=sb:102
+6749056762	6013-iphone-free=om:47,tz:138
+6749208314	6020-mac-free=sn:106
+6749331194	6020-iphone-free=fi:63,xk:35
+6749504762	6017-iphone-free=bh:50,cz:48,ly:14,om:11,qa:48,sk:43,ve:130,zw:159	6017-mac-free=bh:4,cz:58,ec:45,qa:29,sk:179	mac-free=bh:111
+6749532922	6000-iphone-free=cv:189,gw:61,mz:32,pt:200,st:109
+6749807354	6013-iphone-paid=py:168	6013-mac-paid=at:55
+6749870074	6009-iphone-free=kr:64	6009-mac-free=kr:11
+6751225594	6002-iphone-free=bg:10,ch:80,hu:64,lu:176,si:178	iphone-free=bg:150
+6751247610	6015-iphone-free=ar:51
+6751372026	6010-iphone-free=lv:35,ng:199
+6751641850	6024-iphone-free=br:181
+6751732474	6020-iphone-free=pl:34
+6751769850	6004-iphone-free=eg:154
+6751809018	6023-iphone-free=hu:9,sk:148
+6751819770	6015-mac-free=rw:91,zm:163
+6751862778	6024-iphone-paid=us:111
+6752114682	6002-mac-free=om:76
+6752260602	6023-iphone-free=iq:48
+6752505850	6007-iphone-free=vc:92
+6752560634	6023-iphone-free=ao:71
+6752848634	6004-iphone-free=xk:58
+6752864250	6017-iphone-free=pl:174	6017-mac-free=pl:24
+6752916474	6007-iphone-free=bn:133
+6752991482	6015-iphone-free=uz:113
+6753039354	6013-iphone-free=tn:183
+6753087994	6013-iphone-free=ag:98,jm:116
+6753325562	6011-iphone-free=af:131,ar:136,az:67,ba:91,bw:53,by:87,co:195,cr:153,ge:110,hr:177,il:154,iq:132,it:177,jo:129,kw:60,kz:176,lb:80,ly:104,me:185,ni:171,om:190,pt:103,py:154,ro:118,rs:116,ru:180,sa:46,sv:154,tc:15,tm:54,tr:20,ua:109,uy:74,uz:70,ye:73	6011-mac-free=ar:123,ee:16,sa:11
+6753747194	6016-iphone-free=lv:26
+6753998586	6002-mac-paid=rs:171
+6754158842	6003-mac-free=zw:63
+6754307578	6027-iphone-free=by:109
+6754340858	6004-iphone-free=in:42
+6754583802	6017-iphone-free=sg:196
+6754664186	6015-iphone-free=sa:41
+6754678266	6017-iphone-free=my:35	6017-mac-free=my:145
+6754933242	6013-mac-free=ro:13
+6755036410	6005-iphone-free=zw:182
+6755109370	6009-iphone-free=ng:50
+6755533050	6015-iphone-free=ar:126,cl:176,do:198,gt:171,id:155,vn:185
+6755744762	6005-iphone-free=br:96
+6755757818	6004-mac-paid=de:85
+6755839994	6012-iphone-free=tn:177
+6755858938	6014-iphone-paid=ae:48,au:105,ca:119,cl:180,co:123,cr:71,do:50,ec:18,fr:61,gb:87,gh:134,gt:11,hu:73,id:194,il:56,kw:14,mx:72,my:145,na:89,ni:12,no:47,pe:78,ph:62,ua:122,us:57,za:50,zm:200
+6756037370	6006-iphone-free=bm:14
+6756056570	6011-iphone-free=ae:148,al:50,am:81,at:47,au:80,ba:12,be:56,bg:38,br:185,ca:78,ch:169,cl:84,cv:88,cz:121,de:32,dk:111,dz:177,es:84,fi:41,fr:41,gb:102,gd:29,ge:177,gr:103,hk:146,hr:36,hu:49,ie:52,il:23,is:22,it:47,jo:93,kg:83,kw:52,lc:74,lt:38,ly:113,md:96,mk:156,mr:77,mx:126,my:174,nr:139,pl:43,pt:148,ro:31,rs:37,ru:150,sa:16,se:47,si:127,sk:39,tc:102,tj:113,tm:143,tr:17,ua:191,us:45,xk:185,za:194
+6756098554	6017-iphone-paid=ge:161,ma:106,mt:85	6017-mac-paid=gh:26
+6756179706	6016-iphone-free=ru:147	6016-mac-free=ru:95
+6756273658	6024-iphone-free=gr:176
+6756371706	6016-iphone-paid=cn:6,jp:59,tw:33	iphone-paid=cn:20
+6756703738	6008-mac-free=ar:36,au:96,be:191,bj:19,dk:141,id:130,jp:57,kr:59,ng:75,pk:61,sc:198,se:77,tr:196,tw:140,ua:199,vn:153,zm:11	mac-free=bj:163,zm:110
+6756793594	6017-mac-free=pl:196
+6756826106	6008-iphone-paid=gb:157
+6756826618	6004-iphone-free=mx:190
+6756924154	6012-iphone-free=ng:133
+6757125626	6016-iphone-free=vn:188
+6757228538	6007-iphone-free=za:189
+6757340154	6002-iphone-paid=pw:30
+6757356538	6008-iphone-free=ar:167,cr:200,dz:147,gt:139,hn:167,hr:179,iq:152,jo:105,ly:66,me:115,py:157,st:35,sv:143,tr:155	6008-mac-free=eg:96
+6757360634	6012-mac-free=sv:199
+6757840122	6018-iphone-free=tj:57
+6757841914	6005-iphone-free=bt:21	6005-mac-free=bt:40
+6757897210	6017-iphone-free=ag:150,ar:117,at:135,au:130,ba:145,be:157,bg:166,bj:110,bm:96,bo:48,br:124,bs:74,ca:194,ch:132,cl:93,cn:167,co:90,cr:50,cz:75,de:132,do:166,ec:79,fi:139,fj:99,gd:100,ge:164,gr:80,gt:58,gy:88,hk:200,hr:85,hu:87,id:107,in:143,it:154,lk:51,lr:31,lt:82,mo:71,mt:45,mu:41,mv:146,mx:52,my:94,na:184,nl:137,np:105,nz:110,pa:92,pe:100,ph:62,pk:180,pl:127,pt:99,py:70,ro:148,rs:161,sc:105,sg:125,si:190,sk:161,sl:82,sv:27,sz:75,tw:146,uy:98,ve:149,xk:107,za:122,zw:119	6017-mac-free=ae:113,ag:72,ai:55,au:77,ba:98,bj:186,bo:103,br:18,bt:47,ca:41,cd:190,ch:39,cl:52,co:124,cv:96,cz:50,do:23,dz:34,fr:185,gd:95,ge:167,gh:25,gt:12,hn:17,hr:19,id:33,il:36,in:36,iq:59,jo:198,kh:23,ky:43,kz:114,la:164,lk:6,lv:138,ma:39,me:89,mg:174,mt:179,mv:64,mx:26,ne:131,ng:16,np:123,om:137,pa:180,ph:159,py:134,qa:22,sa:85,sb:16,sg:79,si:125,sk:48,sv:131,th:191,tt:199,us:164,uy:165,uz:129,vc:74,ve:110,vu:13,xk:121,za:116	mac-free=lk:198
+6757936634	6023-iphone-paid=in:129
+6758106106	6000-iphone-paid=ng:156
+6758163962	6009-iphone-free=tr:130
+6758316794	6007-mac-free=sg:156
+6758391546	6020-iphone-paid=uy:199
+6758785786	6008-iphone-free=vn:124
+6758859770	6015-iphone-free=az:12	6015-mac-free=az:178	iphone-free=az:77
+6759204858	6015-iphone-paid=kh:96
+6759205626	6015-iphone-free=rw:107
+6759229178	6011-iphone-paid=dz:57	6011-mac-paid=rs:50
+6759292666	6024-iphone-free=pk:108
+6759329786	6020-iphone-free=am:182,az:166,bs:23,by:176,ee:59,fi:101,kz:196,md:156,nr:51,ru:60,tj:190,uz:166	6020-mac-free=by:176
+6759331578	6008-mac-paid=az:86,ca:16,eg:134,gt:189,hr:191,hu:139,in:7,is:197,kh:99,kr:9,kw:199,lt:194,mk:47,mo:132,mw:7,pk:81,ro:108,rs:55,tr:184,tt:93,ug:44,us:18,vn:163	mac-paid=ca:184,in:52,kr:103,mw:58,us:166
+6759360506	6015-mac-free=py:187
+6759389178	6023-iphone-free=dm:146
+6759477242	6013-iphone-free=cv:182
+6759629050	6017-iphone-paid=xk:31
+6759917306	6000-mac-free=jp:91
+6759969018	6005-iphone-free=bw:189,by:75,fi:165,kg:119,kz:98,ru:109,sb:27,ua:138,vg:194	6005-mac-free=am:133,az:117,by:94,cy:129,kg:186,kz:109,md:115,rs:123,ru:59,uz:149
+6760033786	6000-iphone-free=py:168
+6760126714	6015-mac-free=gb:154
+6760186618	6001-mac-free=kr:199
+6760237050	6010-iphone-paid=ae:197,az:18,bh:72,br:109,by:77,ec:123,ee:165,gb:33,iq:32,jp:190,kr:136,kw:3,lv:176,ma:41,mr:16,nl:17,om:69,pk:117,sa:12,th:124,tr:11,tw:46,us:46,ye:1	iphone-grossing=ye:85	iphone-paid=kw:39,ye:1
+6760247802	6002-iphone-paid=ge:119
+6760540666	6020-iphone-free=cg:57,ci:98,tn:3
+6760552698	6011-iphone-free=cd:37,ke:53,mw:74,tz:15,ug:141
+6760583162	6002-mac-free=uy:22	mac-free=uy:89
+6760610810	6010-iphone-paid=bh:71
+6760764666	6008-iphone-free=cn:50
+6760764922	6003-iphone-paid=ch:11
+6760830458	6023-iphone-free=pk:178
+6760979962	6023-iphone-free=cv:179,gw:90
+6761011962	6003-iphone-free=af:183
+6761161978	6001-iphone-free=bt:78,zw:24	6001-mac-free=ch:104,in:194,it:23
+6761263610	6015-iphone-free=no:71
+6761391098	6002-iphone-free=la:155
+6761408762	6016-iphone-free=ae:178,ao:191,bt:54,bw:109,cd:139,cr:200,cv:181,do:99,fj:60,fm:36,gd:126,gh:149,gy:76,in:164,jo:183,lc:46,lk:107,lr:139,mo:193,mv:197,mw:178,ng:186,np:134,pg:37,ph:130,pk:119,pw:122,rw:196,sl:183,sr:84,sv:181,sz:70,tc:185,to:71,tt:112,vg:129	6016-mac-free=ph:186
+6761410554	6009-iphone-free=cy:135
+6761603834	6024-iphone-paid=lt:14,se:50
+6761615610	6023-iphone-free=pk:95
+6761733626	6004-iphone-free=hk:146,il:125,sg:158	6004-mac-free=il:129
+6761751034	6008-iphone-free=ag:165,am:142,ar:129,au:167,bb:86,be:160,bg:87,bm:23,br:182,bs:12,bt:100,bw:55,bz:198,ca:111,ch:150,cv:45,cy:75,cz:196,de:141,dm:60,do:118,ee:115,ga:103,gb:139,gd:26,ge:174,gr:127,gy:167,hr:94,ie:144,il:186,is:105,jm:62,ke:66,kg:97,kn:70,kw:109,ky:83,lb:141,lc:130,lr:106,lt:193,lv:106,ma:197,md:117,me:180,mg:91,mn:65,mo:104,mu:151,mw:58,mz:77,na:44,nl:176,no:118,nr:158,nz:146,pg:65,pt:148,ro:98,rs:119,ru:200,rw:75,sc:174,se:163,si:56,sk:118,sl:134,sr:69,sz:38,tc:77,tt:95,ua:137,ug:131,us:50,uy:137,uz:127,vc:45,vg:73,za:40,zm:58,zw:43	iphone-free=bs:177	iphone-grossing=to:79
+6761768954	6020-iphone-free=ba:52,co:147,do:84,fi:183,hr:184,hu:74,id:119,iq:81,lb:76,ly:49,np:170,ro:180,vn:149
+6762144506	6017-mac-free=it:151
+6762238714	6008-mac-free=ca:161
+6762814202	6015-iphone-free=al:55,xk:73	6015-mac-free=al:197
+6762818042	6000-mac-free=cn:173
+6763399930	6002-mac-free=am:113,by:53,ee:100,kz:75,ua:33	mac-free=by:122,kz:188,ua:94
+6766003194	6012-mac-free=bo:120
+6766577914	6016-iphone-free=pa:30	6016-mac-free=pa:154
+6766823418	6011-mac-free=br:158
+6767191802	6014-iphone-free=vn:139
+6767430906	6027-iphone-free=bn:60,ee:138,ke:155,mg:172,mm:96,mn:187,np:94,ph:158,tz:141
+6767487226	6000-mac-paid=ae:179,de:193,tw:178
+6767571962	6020-iphone-free=it:199
+6767661050	6000-iphone-free=zm:97
+6767828986	6002-mac-free=az:181
+6768006394	6002-iphone-paid=ma:192
+6768123898	6008-iphone-free=ru:179,xk:176
+6769676794	6011-iphone-free=fi:20
+6769785850	6026-mac-free=gr:37,ru:173
+6770406906	6000-iphone-free=id:158
+6771221242	6018-iphone-free=am:180
+6771757050	6020-mac-free=td:38
+6772215290	6012-iphone-paid=de:13
+6772334842	6024-iphone-free=is:155
+6772996858	6006-iphone-free=ae:102,ag:43,al:175,am:21,ar:94,at:129,au:115,az:44,ba:40,bb:55,be:96,bf:172,bg:34,bh:65,bo:28,br:73,bt:17,bw:28,by:48,ca:144,ch:95,cl:99,co:189,cr:64,cy:11,cz:132,dk:108,do:95,dz:160,ec:76,ee:163,eg:37,es:140,fj:90,fr:143,gb:176,ge:9,gr:47,gt:96,hk:118,hr:29,hu:52,id:80,ie:123,il:28,in:69,iq:59,it:174,jo:39,ke:81,kg:111,kh:79,kn:34,kr:180,kw:54,ky:42,kz:135,la:64,lb:14,lk:32,lt:49,lu:133,lv:39,ma:81,md:48,me:80,mk:116,mn:165,mo:47,mt:11,mu:23,mv:95,mx:97,my:95,mz:152,na:82,ng:184,nl:139,no:62,om:149,ph:55,pk:165,pl:67,pt:59,py:181,qa:154,ro:71,rs:59,ru:59,sa:188,se:81,sg:120,si:102,sv:73,th:38,tn:68,tr:67,tt:135,ua:69,us:148,uy:112,uz:164,ve:162,vn:97,za:51,zw:187
+6773115898	6026-iphone-paid=ca:195,my:73
+6773424122	6006-iphone-free=ph:112	6006-mac-free=ph:26
+6773642234	6016-mac-free=tn:16
+6774915066	6002-iphone-free=af:147,ao:56,bf:42,cd:43,cg:51,ci:122,gh:16,gm:17,mr:150,ne:32,ng:51,sn:69,tz:121,za:134,zm:13,zw:34	iphone-free=gh:152,gm:126,zm:106
+6775053562	6015-iphone-free=tm:15	6015-mac-free=tm:107
+6775073018	6004-iphone-free=ci:112,cm:63,cy:169,gh:127,gm:132,ng:122,np:83,sl:88,ug:156	6004-mac-free=gh:127,lk:127,ng:122,sn:148
+6776120314	6015-iphone-free=ly:167
+6776622330	6015-iphone-free=ug:148
+6777186810	6005-iphone-free=af:191,bf:134,bj:133,bn:160,bz:140,cd:156,cg:146,ci:176,cm:142,ga:180,gh:130,gy:163,jm:165,lr:91,me:120,mg:127,ml:59,mr:117,ne:162,ng:167,ni:190,nr:128,sl:154,sn:78,td:74,tt:151,ug:145,za:184,zw:114	6005-mac-free=ch:25,gh:135,ng:14
+6778050810	6012-iphone-free=uz:40
+6779148282	6000-iphone-free=jp:132
+6779561210	6004-iphone-paid=cn:149,kr:189
+6780536826	6007-mac-free=pk:105
+6780656634	6024-iphone-free=ve:39
+6780758010	6027-iphone-free=kg:144
+6782706682	6026-iphone-free=cl:77,cv:188,cz:186,es:141,iq:178,my:92,tw:156,ua:107	6026-mac-free=by:163,es:65
+6782930682	6024-iphone-free=cr:176,ru:107
+6783335162	6017-mac-free=ua:193
+6786625786	6012-mac-free=nl:145
+6788509434	6008-iphone-free=ro:42
+6789998842	6004-iphone-free=by:138
+6790735098	6002-mac-free=co:160,es:50,ie:170	mac-free=es:196
+6791885818	6000-iphone-free=kw:38
+6792239866	6007-mac-paid=tj:31	mac-paid=tj:131
+6792514554	6026-mac-free=by:192,cn:22,in:55,mw:139,na:172,pe:6,tw:80
+6793998586	6000-mac-free=dk:90,ie:88
+6794649594	6024-iphone-paid=us:162
+6794856954	6001-iphone-free=cz:155	6001-mac-free=ar:71,in:19
+6795220474	6012-mac-free=ru:169
+6795488250	6003-iphone-free=pk:27
+6795780858	6000-iphone-free=gy:76	6000-mac-free=ae:36,ar:41,au:63,bj:112,bw:103,ca:54,cd:55,ch:47,cl:87,co:114,do:34,ec:17,eg:69,gb:72,gh:161,id:19,in:47,iq:80,ke:170,kh:42,kr:128,kz:143,mm:100,mv:25,mx:27,my:34,ng:81,no:26,pe:24,ph:20,sg:78,th:29,tr:113,tw:103,tz:95,ua:34,us:58,za:74,zw:187
+6795813114	6003-mac-free=jp:43
+6796344570	6024-iphone-free=br:106
+6797251322	6013-iphone-free=tw:64
+6799345402	6015-iphone-free=ar:90
+6800201978	6024-iphone-free=cn:162
+6800236538	6000-iphone-free=dm:26
+6800300538	6018-iphone-free=pl:36
+6801564154	6002-iphone-free=iq:61
+6801743866	6000-iphone-free=br:186
+6801829114	6004-iphone-free=se:170
+6802707450	6003-iphone-free=ly:115
+6803191546	6004-iphone-free=tr:140	6004-mac-free=tr:23
+6804042490	6003-iphone-free=dz:122
+6804638714	6006-iphone-free=al:48,au:149,br:148,dz:80,eg:164,gb:161,it:197,mk:85,ph:122,pk:179,se:156,ve:92	6006-mac-free=my:15
+6805170170	6011-mac-free=id:134
+6805804026	6003-iphone-free=rs:119
+6806419194	6010-iphone-free=ie:115
+6807224314	6017-mac-free=mo:181
+6807764986	6016-iphone-free=lk:6	iphone-free=lk:72
+6808063994	6011-iphone-free=kr:85
+6808503802	6020-iphone-free=kr:118
+6809143034	6015-mac-free=cn:170
+6809235962	6024-iphone-free=mr:160
+6809586170	6013-iphone-free=ag:32
+6809629178	6023-iphone-free=mw:170
+6809723130	6004-iphone-free=si:129
+6810614010	6014-iphone-free=cr:5
+6810899194	6005-iphone-free=is:106
+6811441914	6004-iphone-free=tr:72
+6811459834	6020-iphone-free=am:156,cd:172,cm:116,ma:61,ng:134,sn:85,uz:162,ve:178
+6812036090	6007-iphone-free=ru:198
+6812638970	6004-iphone-free=by:78,ru:121,tj:84
+6813071866	6023-iphone-free=ie:46
+6813114106	6004-iphone-free=hn:83
+6813265402	6002-mac-free=lt:61
+6814047994	6014-iphone-paid=az:124,tr:17
+6814487034	6014-mac-free=br:178
+6814975482	6006-mac-free=ca:49,de:47,fr:17,gb:54,ru:65
+6815000058	6026-iphone-free=tw:169
+6815395322	6024-iphone-free=iq:75
+6815601146	6017-iphone-free=bj:24,cg:167,ci:129,sn:108,td:153
+6816655610	6018-iphone-free=am:8
+6816896250	6016-iphone-paid=ae:11,al:95,am:1,ar:5,at:1,au:1,az:35,ba:37,be:1,bg:5,bh:15,br:2,by:133,ca:2,ch:4,ci:2,cl:9,co:39,cr:2,cy:34,cz:2,de:1,dk:9,ec:38,ee:1,eg:4,es:3,fi:1,fj:29,fr:1,gb:2,ge:2,gh:70,gr:7,gt:84,hk:4,hr:47,hu:4,id:6,ie:2,il:4,in:4,iq:18,is:30,it:2,jo:3,jp:7,ke:149,kg:6,kh:9,kr:6,kw:5,kz:2,lb:1,lk:165,lt:4,lu:41,lv:55,ma:46,md:1,mk:1,mn:6,mo:11,mt:39,mx:2,my:9,ng:69,nl:1,no:2,nz:7,om:2,pa:91,pe:3,ph:1,pk:26,pl:3,pt:3,qa:2,ro:5,rs:2,ru:11,sa:1,se:2,sg:2,si:40,sk:4,th:2,tj:12,tr:2,tw:6,tz:41,ua:5,us:1,uz:30,vn:42,xk:33,za:5	6016-mac-paid=ca:157,cz:42,de:18,gb:150,hu:95,ie:118,it:149,jp:139,pl:65,se:143,tw:135	iphone-paid=ae:136,am:4,ar:81,at:11,au:11,be:34,bg:95,bh:160,br:75,ca:9,ch:41,ci:40,cl:163,cr:27,cz:14,de:17,dk:103,ee:14,eg:30,es:37,fi:22,fr:16,gb:17,ge:7,gr:90,hk:38,hu:157,id:88,ie:25,il:73,in:65,it:16,jo:20,jp:109,kg:96,kh:188,kr:95,kw:41,kz:26,lb:11,lt:36,md:6,mk:3,mn:118,mo:199,mx:18,my:84,nl:12,no:19,nz:90,om:9,pe:25,ph:20,pl:66,pt:73,qa:24,ro:129,rs:94,ru:179,sa:8,se:16,sg:10,sk:47,th:17,tj:168,tr:37,tw:40,ua:89,us:4,za:110
+6817729274	6016-mac-free=sa:166,vn:111
+6818511354	6017-iphone-free=lu:50
+6818626810	6013-iphone-paid=de:75
+6818789114	6010-iphone-free=ly:41
+6819489018	6001-iphone-free=br:107
+6819522554	6014-mac-free=my:105
+6819642874	6020-iphone-paid=pl:11	iphone-paid=pl:197
+6819723770	6004-iphone-free=co:102
+6819736826	6011-iphone-paid=kg:68,ma:70,th:11	iphone-paid=th:61
+6819789562	6013-iphone-paid=fi:1	iphone-paid=fi:1
+6820142842	6006-mac-free=us:194
+6821019386	6010-iphone-free=bt:17
+6821240570	6016-mac-paid=gb:92
+6821473274	6000-iphone-free=ng:199
+6821850874	6015-mac-free=es:20
+6822788346	6026-iphone-free=cn:23,ru:184
+6823182074	6000-iphone-free=ca:186
+6823304186	6013-mac-free=mt:155
+6823958778	6002-iphone-paid=kw:183
+6824266234	6006-iphone-free=sa:150,td:199
+6824460538	6003-iphone-free=vn:200
+6825030394	6013-iphone-free=dk:33
+6825041658	6007-mac-free=md:89
+6825175034	6006-mac-free=nz:23
+6825242874	6015-iphone-free=iq:142
+6827070714	6026-mac-paid=at:2,ch:6,de:5,es:1,fr:2,gb:6,jp:5,lv:1,nl:2,se:2,us:4	mac-paid=at:54,ch:150,de:108,es:11,fr:82,gb:134,jp:198,lv:11,nl:120,se:80,us:122
+6827858938	6010-iphone-free=bh:191
+6829032442	6017-mac-free=am:35
+6829194746	6017-iphone-free=ml:172
+6829196538	6024-iphone-free=py:85
+6829320442	6003-iphone-free=zw:193
+6830055930	6002-iphone-free=jo:78,mk:177
+6830303994	6014-mac-free=rs:23
+6830745338	6002-iphone-paid=ee:200
+6830822394	6012-iphone-free=hu:165
+6831077882	6026-mac-free=cz:52
+6831415290	6002-mac-free=rs:143
+6832595450	6016-iphone-paid=in:21
+6833299962	6011-iphone-free=mo:131
+6834510330	6026-iphone-free=iq:94
+6836664058	6016-iphone-paid=mx:11	6016-mac-paid=th:2	iphone-paid=mx:147	mac-paid=th:12
+6836845306	6010-iphone-free=jo:142
+6836859130	6006-iphone-free=bj:100,ci:119,ml:72,sn:24,tz:179

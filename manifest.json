@@ -1,0 +1,234 @@
+{
+ "version": 1,
+ "updatedAt": "2026-11-28T16:43:45Z",
+ "days": [
+  {
+   "date": "2026-11-14",
+   "fetchedAt": "2026-11-14T20:04:30Z",
+   "files": [],
+   "stats": {
+    "rss_ok": 175,
+    "rss_fail": 0,
+    "web_ok": 8050,
+    "web_fail": 0,
+    "throttled_rss": 0,
+    "throttled_web": 30,
+    "seconds": 405
+   },
+   "shards": 256
+  },
+  {
+   "date": "2026-11-15",
+   "fetchedAt": "2026-11-15T19:03:07Z",
+   "files": [],
+   "stats": {
+    "rss_ok": 175,
+    "rss_fail": 0,
+    "web_ok": 8050,
+    "web_fail": 0,
+    "throttled_rss": 0,
+    "throttled_web": 4,
+    "seconds": 368
+   },
+   "shards": 256
+  },
+  {
+   "date": "2026-11-16",
+   "fetchedAt": "2026-11-16T20:37:25Z",
+   "files": [],
+   "stats": {
+    "rss_ok": 175,
+    "rss_fail": 0,
+    "web_ok": 8050,
+    "web_fail": 0,
+    "throttled_rss": 0,
+    "throttled_web": 39,
+    "seconds": 396
+   },
+   "shards": 256
+  },
+  {
+   "date": "2026-11-17",
+   "fetchedAt": "2026-11-17T22:32:13Z",
+   "files": [],
+   "stats": {
+    "rss_ok": 175,
+    "rss_fail": 0,
+    "web_ok": 8050,
+    "web_fail": 0,
+    "throttled_rss": 0,
+    "throttled_web": 7,
+    "seconds": 367
+   },
+   "shards": 256
+  },
+  {
+   "date": "2026-11-18",
+   "fetchedAt": "2026-11-18T22:07:19Z",
+   "files": [],
+   "stats": {
+    "rss_ok": 175,
+    "rss_fail": 0,
+    "web_ok": 8050,
+    "web_fail": 0,
+    "throttled_rss": 0,
+    "throttled_web": 63,
+    "seconds": 506
+   },
+   "shards": 256
+  },
+  {
+   "date": "2026-11-19",
+   "fetchedAt": "2026-11-19T21:45:34Z",
+   "files": [],
+   "stats": {
+    "rss_ok": 175,
+    "rss_fail": 0,
+    "web_ok": 8050,
+    "web_fail": 0,
+    "throttled_rss": 0,
+    "throttled_web": 29,
+    "seconds": 394
+   },
+   "shards": 256
+  },
+  {
+   "date": "2026-11-20",
+   "fetchedAt": "2026-11-20T21:17:24Z",
+   "files": [],
+   "stats": {
+    "rss_ok": 175,
+    "rss_fail": 0,
+    "web_ok": 8050,
+    "web_fail": 0,
+    "throttled_rss": 0,
+    "throttled_web": 70,
+    "seconds": 545
+   },
+   "shards": 256
+  },
+  {
+   "date": "2026-11-21",
+   "fetchedAt": "2026-11-21T23:29:17Z",
+   "files": [],
+   "stats": {
+    "rss_ok": 175,
+    "rss_fail": 0,
+    "web_ok": 8050,
+    "web_fail": 0,
+    "throttled_rss": 0,
+    "throttled_web": 0,
+    "seconds": 354
+   },
+   "shards": 256
+  },
+  {
+   "date": "2026-11-22",
+   "fetchedAt": "2026-11-22T21:54:10Z",
+   "files": [],
+   "stats": {
+    "rss_ok": 175,
+    "rss_fail": 0,
+    "web_ok": 8050,
+    "web_fail": 0,
+    "throttled_rss": 0,
+    "throttled_web": 0,
+    "seconds": 356
+   },
+   "shards": 256
+  },
+  {
+   "date": "2026-11-23",
+   "fetchedAt": "2026-11-23T18:03:48Z",
+   "files": [],
+   "stats": {
+    "rss_ok": 175,
+    "rss_fail": 0,
+    "web_ok": 8050,
+    "web_fail": 0,
+    "throttled_rss": 0,
+    "throttled_web": 0,
+    "seconds": 360
+   },
+   "shards": 256
+  },
+  {
+   "date": "2026-11-24",
+   "fetchedAt": "2026-11-24T21:21:10Z",
+   "files": [],
+   "stats": {
+    "rss_ok": 175,
+    "rss_fail": 0,
+    "web_ok": 8050,
+    "web_fail": 0,
+    "throttled_rss": 0,
+    "throttled_web": 25,
+    "seconds": 405
+   },
+   "shards": 256
+  },
+  {
+   "date": "2026-11-25",
+   "fetchedAt": "2026-11-25T22:11:32Z",
+   "files": [],
+   "stats": {
+    "rss_ok": 175,
+    "rss_fail": 0,
+    "web_ok": 8050,
+    "web_fail": 0,
+    "throttled_rss": 0,
+    "throttled_web": 21,
+    "seconds": 384
+   },
+   "shards": 256
+  },
+  {
+   "date": "2026-11-26",
+   "fetchedAt": "2026-11-26T22:11:25Z",
+   "files": [],
+   "stats": {
+    "rss_ok": 175,
+    "rss_fail": 0,
+    "web_ok": 8050,
+    "web_fail": 0,
+    "throttled_rss": 0,
+    "throttled_web": 15,
+    "seconds": 372,
+    "kept_from_earlier": 1
+   },
+   "shards": 256
+  },
+  {
+   "date": "2026-11-27",
+   "fetchedAt": "2026-11-27T22:12:27Z",
+   "files": [],
+   "stats": {
+    "rss_ok": 175,
+    "rss_fail": 0,
+    "web_ok": 8050,
+    "web_fail": 0,
+    "throttled_rss": 0,
+    "throttled_web": 9,
+    "seconds": 380,
+    "kept_from_earlier": 2
+   },
+   "shards": 256
+  },
+  {
+   "date": "2026-11-28",
+   "fetchedAt": "2026-11-28T16:43:45Z",
+   "files": [],
+   "stats": {
+    "rss_ok": 109,
+    "rss_fail": 0,
+    "web_ok": 5014,
+    "web_fail": 0,
+    "throttled_rss": 0,
+    "throttled_web": 170,
+    "seconds": 1689,
+    "kept_from_earlier": 5997
+   },
+   "shards": 256
+  }
+ ]
+}
